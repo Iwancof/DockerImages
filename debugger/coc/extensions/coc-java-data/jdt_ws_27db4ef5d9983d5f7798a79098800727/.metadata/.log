@@ -1,0 +1,18 @@
+!SESSION 2021-12-27 22:03:00.228 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.1
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/iwancof/.config/coc/extensions/coc-java-data/jdt_ws_27db4ef5d9983d5f7798a79098800727
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-27 22:03:01.656
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-27 22:03:01.839
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-27 22:03:01.878
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-27 22:03:01.879
+!MESSAGE Initializing Java Language Server 1.8.0.202112170540

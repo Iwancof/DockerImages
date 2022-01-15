@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "coc-ccls": ">=0.0.5",
+    "coc-java": ">=1.5.5",
+    "coc-jedi": ">=0.30.1",
+    "coc-json": ">=1.4.1",
+    "coc-phpls": ">=2.2.1",
+    "coc-rust-analyzer": ">=0.59.1",
+    "coc-toml": ">=1.1.0",
+    "coc-tsserver": ">=1.9.6",
+    "coc-vimtex": ">=1.1.0"
+  }
+}

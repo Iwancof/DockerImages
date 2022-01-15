@@ -1,0 +1,29 @@
+source /root/pwndbg/gdbinit.py
+source /root/ret-sync/ext_gdb/sync.py
+source /root/gdb_note_addr/addr_note.py
+source /root/splitmind/gdbinit.py
+set auto-load safe-path /
+
+set follow-fork-mode child
+set detach-on-fork off
+
+alias -a ttn = reverse-next
+alias -a ttni = reverse-nexti
+alias -a ttc = reverse-continue
+alias -a tts = reverse-step
+alias -a ttsi = reverse-stepi
+alias -a ttfin = reverse-finish
+
+python
+import splitmind
+(splitmind.Mind()
+  .below(display="stack")
+  .right(display="regs")
+  .right(of="main", display="disasm")
+  .below(of="disasm", display="code")
+  .below(of="stack", display="backtrace")
+  .show("legend", on="disasm")
+).build()
+end
+
+set language c

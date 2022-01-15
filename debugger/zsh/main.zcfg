@@ -1,0 +1,37 @@
+# The following lines were added by compinstall
+
+export ZSH_WORDSPACE_ROOT=$HOME/.config/zsh
+
+# EXPORTS
+source $ZSH_WORDSPACE_ROOT/variables.zcfg
+
+zstyle ':completion:*' completer _expand _complete _ignored # _approximate
+zstyle :compinstall filename '~/.zshrc'
+
+autoload -U add-zsh-hook
+autoload -Uz compinit && compinit
+
+# HISTORY
+HISTFILE=~/.zsh_history
+HISTSIZE=100000
+SAVEHIST=100000
+
+# EMOJI
+source $ZSH_WORDSPACE_ROOT/emoji-cli/emoji-cli.zsh
+
+# PROMPT
+source $ZSH_WORDSPACE_ROOT/prompt.zcfg
+
+# FZF
+source $ZSH_WORDSPACE_ROOT/fzf.zcfg
+
+# PMY
+source $ZSH_WORDSPACE_ROOT/pmy.zcfg
+
+# SUGGES
+source $ZSH_WORDSPACE_ROOT/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+
+# ALIAS
+source $ZSH_WORDSPACE_ROOT/aliases.zcfg
+

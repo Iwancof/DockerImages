@@ -1,0 +1,2487 @@
+2021/08/16 03:58:22 cli arg parse took 2.370649ms
+2021/08/16 03:58:49 cli arg parse took 178.999µs
+2021/08/16 03:58:51 core.Run took 384.509µs
+2021/08/16 03:58:51 cli arg parse took 687.34µs
+2021/08/16 03:58:53 core.Run took 889.279µs
+2021/08/16 03:58:53 cli arg parse took 1.362162ms
+2021/08/16 03:58:54 core.Run took 680.983µs
+2021/08/16 03:58:54 cli arg parse took 1.159932ms
+2021/08/16 03:58:54 core.Run took 1.084449ms
+2021/08/16 03:58:54 cli arg parse took 1.62648ms
+2021/08/16 03:58:54 core.Run took 532.905µs
+2021/08/16 03:58:54 cli arg parse took 772.776µs
+2021/08/16 03:58:54 core.Run took 1.081885ms
+2021/08/16 03:58:54 cli arg parse took 1.585538ms
+2021/08/16 03:58:54 core.Run took 925.864µs
+2021/08/16 03:58:54 cli arg parse took 1.391388ms
+2021/08/16 03:58:56 core.Run took 781.743µs
+2021/08/16 03:58:56 cli arg parse took 1.251726ms
+2021/08/16 03:58:56 core.Run took 895.494µs
+2021/08/16 03:58:56 cli arg parse took 1.424542ms
+2021/08/16 03:59:00 core.Run took 345.538µs
+2021/08/16 03:59:00 cli arg parse took 503.422µs
+2021/08/16 03:59:01 core.Run took 335.491µs
+2021/08/16 03:59:01 cli arg parse took 519.02µs
+2021/08/16 03:59:01 core.Run took 1.024497ms
+2021/08/16 03:59:01 cli arg parse took 1.378998ms
+2021/08/16 03:59:01 core.Run took 1.193393ms
+2021/08/16 03:59:01 cli arg parse took 1.730567ms
+2021/08/16 03:59:01 core.Run took 786.682µs
+2021/08/16 03:59:01 cli arg parse took 1.268537ms
+2021/08/16 03:59:02 core.Run took 902.953µs
+2021/08/16 03:59:02 cli arg parse took 1.376571ms
+2021/08/16 03:59:02 core.Run took 910.503µs
+2021/08/16 03:59:02 cli arg parse took 1.408455ms
+2021/08/16 03:59:02 core.Run took 939.917µs
+2021/08/16 03:59:02 cli arg parse took 1.468619ms
+2021/08/16 03:59:03 core.Run took 1.103659ms
+2021/08/16 03:59:03 cli arg parse took 1.585222ms
+2021/08/16 03:59:03 core.Run took 1.056818ms
+2021/08/16 03:59:03 cli arg parse took 1.615962ms
+2021/08/16 03:59:03 core.Run took 264.989µs
+2021/08/16 03:59:03 cli arg parse took 437.102µs
+2021/08/16 03:59:03 core.Run took 1.254674ms
+2021/08/16 03:59:03 cli arg parse took 1.825883ms
+2021/08/16 03:59:03 core.Run took 662.336µs
+2021/08/16 03:59:03 cli arg parse took 998.601µs
+2021/08/16 03:59:03 core.Run took 481.42µs
+2021/08/16 03:59:03 cli arg parse took 788.272µs
+2021/08/16 03:59:03 core.Run took 1.331285ms
+2021/08/16 03:59:03 cli arg parse took 1.871029ms
+2021/08/16 03:59:03 core.Run took 892.971µs
+2021/08/16 03:59:03 cli arg parse took 1.400053ms
+2021/08/16 03:59:03 core.Run took 925.578µs
+2021/08/16 03:59:03 cli arg parse took 1.425172ms
+2021/08/16 03:59:03 core.Run took 491.74µs
+2021/08/16 03:59:03 cli arg parse took 731.966µs
+2021/08/16 03:59:03 core.Run took 380.945µs
+2021/08/16 03:59:03 cli arg parse took 608.205µs
+2021/08/16 03:59:03 core.Run took 1.294222ms
+2021/08/16 03:59:03 cli arg parse took 1.77339ms
+2021/08/16 03:59:03 core.Run took 977.629µs
+2021/08/16 03:59:03 cli arg parse took 1.529604ms
+2021/08/16 03:59:03 core.Run took 693.656µs
+2021/08/16 03:59:03 cli arg parse took 1.200888ms
+2021/08/16 03:59:03 core.Run took 1.078587ms
+2021/08/16 03:59:03 cli arg parse took 1.549713ms
+2021/08/16 03:59:03 core.Run took 693.4µs
+2021/08/16 03:59:03 cli arg parse took 1.251314ms
+2021/08/16 03:59:03 core.Run took 942.714µs
+2021/08/16 03:59:03 cli arg parse took 1.493151ms
+2021/08/16 03:59:03 core.Run took 520.49µs
+2021/08/16 03:59:03 cli arg parse took 849.978µs
+2021/08/16 03:59:03 core.Run took 629.534µs
+2021/08/16 03:59:03 cli arg parse took 1.029875ms
+2021/08/16 03:59:03 core.Run took 534.084µs
+2021/08/16 03:59:03 cli arg parse took 847.687µs
+2021/08/16 03:59:03 core.Run took 922.068µs
+2021/08/16 03:59:03 cli arg parse took 1.472601ms
+2021/08/16 03:59:03 core.Run took 1.039323ms
+2021/08/16 03:59:03 cli arg parse took 1.537563ms
+2021/08/16 03:59:03 core.Run took 886.879µs
+2021/08/16 03:59:03 cli arg parse took 1.401076ms
+2021/08/16 03:59:03 core.Run took 1.103173ms
+2021/08/16 03:59:03 cli arg parse took 1.610458ms
+2021/08/16 03:59:04 core.Run took 799.819µs
+2021/08/16 03:59:04 cli arg parse took 1.387339ms
+2021/08/16 03:59:04 core.Run took 1.056356ms
+2021/08/16 03:59:04 cli arg parse took 1.566951ms
+2021/08/16 03:59:04 core.Run took 933.147µs
+2021/08/16 03:59:04 cli arg parse took 1.445742ms
+2021/08/16 03:59:04 core.Run took 970.377µs
+2021/08/16 03:59:04 cli arg parse took 1.477359ms
+2021/08/16 03:59:04 core.Run took 670.882µs
+2021/08/16 03:59:04 cli arg parse took 979.576µs
+2021/08/16 03:59:04 core.Run took 660.547µs
+2021/08/16 03:59:04 cli arg parse took 957.729µs
+2021/08/16 03:59:04 core.Run took 701.65µs
+2021/08/16 03:59:04 cli arg parse took 1.161929ms
+2021/08/16 03:59:04 core.Run took 1.021139ms
+2021/08/16 03:59:04 cli arg parse took 1.521603ms
+2021/08/16 03:59:04 core.Run took 758.418µs
+2021/08/16 03:59:04 cli arg parse took 1.206549ms
+2021/08/16 03:59:04 core.Run took 320.637µs
+2021/08/16 03:59:04 cli arg parse took 563.788µs
+2021/08/16 03:59:04 core.Run took 846.85µs
+2021/08/16 03:59:04 cli arg parse took 1.243133ms
+2021/08/16 03:59:04 core.Run took 716.449µs
+2021/08/16 03:59:04 cli arg parse took 1.082102ms
+2021/08/16 03:59:04 core.Run took 687.22µs
+2021/08/16 03:59:04 cli arg parse took 1.112689ms
+2021/08/16 03:59:04 core.Run took 946.494µs
+2021/08/16 03:59:04 cli arg parse took 1.306952ms
+2021/08/16 03:59:04 core.Run took 785.485µs
+2021/08/16 03:59:04 cli arg parse took 1.210134ms
+2021/08/16 03:59:04 core.Run took 739.009µs
+2021/08/16 03:59:04 cli arg parse took 1.141081ms
+2021/08/16 03:59:04 core.Run took 937.88µs
+2021/08/16 03:59:04 cli arg parse took 1.404542ms
+2021/08/16 03:59:04 core.Run took 665.575µs
+2021/08/16 03:59:04 cli arg parse took 1.170696ms
+2021/08/16 03:59:04 core.Run took 698.512µs
+2021/08/16 03:59:04 cli arg parse took 1.007787ms
+2021/08/16 03:59:04 core.Run took 605.903µs
+2021/08/16 03:59:04 cli arg parse took 933.587µs
+2021/08/16 03:59:04 core.Run took 725.66µs
+2021/08/16 03:59:04 cli arg parse took 1.137818ms
+2021/08/16 03:59:04 core.Run took 717.694µs
+2021/08/16 03:59:04 cli arg parse took 1.233743ms
+2021/08/16 03:59:04 core.Run took 989.495µs
+2021/08/16 03:59:04 cli arg parse took 1.428367ms
+2021/08/16 03:59:04 core.Run took 814.104µs
+2021/08/16 03:59:04 cli arg parse took 1.117763ms
+2021/08/16 03:59:04 core.Run took 740.9µs
+2021/08/16 03:59:04 cli arg parse took 1.110012ms
+2021/08/16 03:59:05 core.Run took 641.62µs
+2021/08/16 03:59:05 cli arg parse took 1.011894ms
+2021/08/16 03:59:05 core.Run took 764.973µs
+2021/08/16 03:59:05 cli arg parse took 1.126788ms
+2021/08/16 03:59:05 core.Run took 749.951µs
+2021/08/16 03:59:05 cli arg parse took 1.111669ms
+2021/08/16 03:59:05 core.Run took 734.159µs
+2021/08/16 03:59:05 cli arg parse took 1.100016ms
+2021/08/16 03:59:05 core.Run took 775.584µs
+2021/08/16 03:59:05 cli arg parse took 1.175105ms
+2021/08/16 03:59:05 core.Run took 700.696µs
+2021/08/16 03:59:05 cli arg parse took 1.062817ms
+2021/08/16 03:59:05 core.Run took 908.913µs
+2021/08/16 03:59:05 cli arg parse took 1.32713ms
+2021/08/16 03:59:05 core.Run took 505.63µs
+2021/08/16 03:59:05 cli arg parse took 855.194µs
+2021/08/16 03:59:05 core.Run took 743.811µs
+2021/08/16 03:59:05 cli arg parse took 1.105735ms
+2021/08/16 03:59:05 core.Run took 586.587µs
+2021/08/16 03:59:05 cli arg parse took 973.921µs
+2021/08/16 03:59:05 core.Run took 828.437µs
+2021/08/16 03:59:05 cli arg parse took 1.226625ms
+2021/08/16 03:59:05 core.Run took 678.847µs
+2021/08/16 03:59:05 cli arg parse took 1.10337ms
+2021/08/16 03:59:05 core.Run took 550.058µs
+2021/08/16 03:59:05 cli arg parse took 916.451µs
+2021/08/16 03:59:05 core.Run took 932.912µs
+2021/08/16 03:59:05 cli arg parse took 1.326779ms
+2021/08/16 03:59:05 core.Run took 658.275µs
+2021/08/16 03:59:05 cli arg parse took 1.065986ms
+2021/08/16 03:59:05 core.Run took 1.064676ms
+2021/08/16 03:59:05 cli arg parse took 1.469239ms
+2021/08/16 03:59:05 core.Run took 854.11µs
+2021/08/16 03:59:05 cli arg parse took 1.249204ms
+2021/08/16 03:59:05 core.Run took 878.08µs
+2021/08/16 03:59:05 cli arg parse took 1.293701ms
+2021/08/16 03:59:05 core.Run took 712.854µs
+2021/08/16 03:59:05 cli arg parse took 1.077018ms
+2021/08/16 03:59:05 core.Run took 701.291µs
+2021/08/16 03:59:05 cli arg parse took 1.090749ms
+2021/08/16 03:59:05 core.Run took 584.946µs
+2021/08/16 03:59:05 cli arg parse took 938.712µs
+2021/08/16 03:59:05 core.Run took 787.68µs
+2021/08/16 03:59:05 cli arg parse took 1.17611ms
+2021/08/16 03:59:05 core.Run took 771.455µs
+2021/08/16 03:59:05 cli arg parse took 1.170001ms
+2021/08/16 03:59:05 core.Run took 932.208µs
+2021/08/16 03:59:05 cli arg parse took 1.299178ms
+2021/08/16 03:59:05 core.Run took 942.123µs
+2021/08/16 03:59:05 cli arg parse took 1.330334ms
+2021/08/16 03:59:06 core.Run took 835.067µs
+2021/08/16 03:59:06 cli arg parse took 1.234466ms
+2021/08/16 03:59:06 core.Run took 883.41µs
+2021/08/16 03:59:06 cli arg parse took 1.249725ms
+2021/08/16 03:59:06 core.Run took 905.072µs
+2021/08/16 03:59:06 cli arg parse took 1.261862ms
+2021/08/16 03:59:06 core.Run took 863.29µs
+2021/08/16 03:59:06 cli arg parse took 1.239967ms
+2021/08/16 03:59:06 core.Run took 693.953µs
+2021/08/16 03:59:06 cli arg parse took 1.071661ms
+2021/08/16 03:59:06 core.Run took 732.523µs
+2021/08/16 03:59:06 cli arg parse took 1.236185ms
+2021/08/16 03:59:06 core.Run took 724.179µs
+2021/08/16 03:59:06 cli arg parse took 1.21494ms
+2021/08/16 03:59:06 core.Run took 742.244µs
+2021/08/16 03:59:06 cli arg parse took 1.186565ms
+2021/08/16 03:59:06 core.Run took 428.177µs
+2021/08/16 03:59:06 cli arg parse took 683.03µs
+2021/08/16 03:59:06 core.Run took 553.731µs
+2021/08/16 03:59:06 cli arg parse took 921.484µs
+2021/08/16 03:59:06 core.Run took 640.493µs
+2021/08/16 03:59:06 cli arg parse took 1.023418ms
+2021/08/16 03:59:06 core.Run took 804.941µs
+2021/08/16 03:59:06 cli arg parse took 1.270917ms
+2021/08/16 03:59:06 core.Run took 876.514µs
+2021/08/16 03:59:06 cli arg parse took 1.32533ms
+2021/08/16 03:59:06 core.Run took 715.585µs
+2021/08/16 03:59:06 cli arg parse took 1.199051ms
+2021/08/16 03:59:06 core.Run took 1.147459ms
+2021/08/16 03:59:06 cli arg parse took 1.627944ms
+2021/08/16 03:59:06 core.Run took 1.00825ms
+2021/08/16 03:59:06 cli arg parse took 1.488884ms
+2021/08/16 03:59:06 core.Run took 440.861µs
+2021/08/16 03:59:06 cli arg parse took 673.12µs
+2021/08/16 03:59:06 core.Run took 1.10083ms
+2021/08/16 03:59:06 cli arg parse took 1.634367ms
+2021/08/16 03:59:06 core.Run took 679.926µs
+2021/08/16 03:59:06 cli arg parse took 1.296181ms
+2021/08/16 03:59:06 core.Run took 564.071µs
+2021/08/16 03:59:06 cli arg parse took 860.074µs
+2021/08/16 03:59:06 core.Run took 704.418µs
+2021/08/16 03:59:06 cli arg parse took 1.017686ms
+2021/08/16 03:59:06 core.Run took 915.077µs
+2021/08/16 03:59:06 cli arg parse took 1.412344ms
+2021/08/16 03:59:06 core.Run took 1.027674ms
+2021/08/16 03:59:06 cli arg parse took 1.485947ms
+2021/08/16 03:59:06 core.Run took 1.115354ms
+2021/08/16 03:59:06 cli arg parse took 1.567517ms
+2021/08/16 03:59:06 core.Run took 970.693µs
+2021/08/16 03:59:06 cli arg parse took 1.575017ms
+2021/08/16 03:59:07 core.Run took 567.82µs
+2021/08/16 03:59:07 cli arg parse took 872.01µs
+2021/08/16 03:59:07 core.Run took 435.064µs
+2021/08/16 03:59:07 cli arg parse took 739.864µs
+2021/08/16 03:59:07 core.Run took 904.758µs
+2021/08/16 03:59:07 cli arg parse took 1.329235ms
+2021/08/16 03:59:07 core.Run took 745.924µs
+2021/08/16 03:59:07 cli arg parse took 1.139844ms
+2021/08/16 03:59:07 core.Run took 849.077µs
+2021/08/16 03:59:07 cli arg parse took 1.315148ms
+2021/08/16 03:59:07 core.Run took 268.439µs
+2021/08/16 03:59:07 cli arg parse took 426.563µs
+2021/08/16 03:59:07 core.Run took 319.898µs
+2021/08/16 03:59:07 cli arg parse took 483.441µs
+2021/08/16 03:59:07 core.Run took 1.028104ms
+2021/08/16 03:59:07 cli arg parse took 1.627979ms
+2021/08/16 03:59:07 core.Run took 856.21µs
+2021/08/16 03:59:07 cli arg parse took 1.312538ms
+2021/08/16 03:59:07 core.Run took 955.148µs
+2021/08/16 03:59:07 cli arg parse took 1.46385ms
+2021/08/16 03:59:07 core.Run took 965.526µs
+2021/08/16 03:59:07 cli arg parse took 1.498121ms
+2021/08/16 03:59:07 core.Run took 506.162µs
+2021/08/16 03:59:07 cli arg parse took 810.747µs
+2021/08/16 03:59:07 core.Run took 598.375µs
+2021/08/16 03:59:07 cli arg parse took 923.515µs
+2021/08/16 03:59:07 core.Run took 1.065661ms
+2021/08/16 03:59:07 cli arg parse took 1.554796ms
+2021/08/16 03:59:07 core.Run took 807.924µs
+2021/08/16 03:59:07 cli arg parse took 1.308785ms
+2021/08/16 03:59:07 core.Run took 1.118276ms
+2021/08/16 03:59:07 cli arg parse took 1.594933ms
+2021/08/16 03:59:07 core.Run took 256.876µs
+2021/08/16 03:59:07 cli arg parse took 434.326µs
+2021/08/16 03:59:07 core.Run took 628.05µs
+2021/08/16 03:59:07 cli arg parse took 1.055156ms
+2021/08/16 03:59:07 core.Run took 789.898µs
+2021/08/16 03:59:07 cli arg parse took 1.261446ms
+2021/08/16 03:59:07 core.Run took 634.42µs
+2021/08/16 03:59:07 cli arg parse took 1.111006ms
+2021/08/16 03:59:07 core.Run took 864.828µs
+2021/08/16 03:59:07 cli arg parse took 1.379637ms
+2021/08/16 03:59:07 core.Run took 952.589µs
+2021/08/16 03:59:07 cli arg parse took 1.516193ms
+2021/08/16 03:59:07 core.Run took 753.82µs
+2021/08/16 03:59:07 cli arg parse took 1.065766ms
+2021/08/16 03:59:07 core.Run took 810.365µs
+2021/08/16 03:59:07 cli arg parse took 1.255211ms
+2021/08/16 03:59:08 core.Run took 1.122691ms
+2021/08/16 03:59:08 cli arg parse took 1.637694ms
+2021/08/16 03:59:08 core.Run took 1.089783ms
+2021/08/16 03:59:08 cli arg parse took 1.552114ms
+2021/08/16 03:59:08 core.Run took 903.167µs
+2021/08/16 03:59:08 cli arg parse took 1.386801ms
+2021/08/16 03:59:08 core.Run took 1.085612ms
+2021/08/16 03:59:08 cli arg parse took 1.53906ms
+2021/08/16 03:59:08 core.Run took 680.917µs
+2021/08/16 03:59:08 cli arg parse took 996.492µs
+2021/08/16 03:59:08 core.Run took 647.503µs
+2021/08/16 03:59:08 cli arg parse took 979.777µs
+2021/08/16 03:59:08 core.Run took 765.794µs
+2021/08/16 03:59:08 cli arg parse took 1.260777ms
+2021/08/16 03:59:08 core.Run took 998.497µs
+2021/08/16 03:59:08 cli arg parse took 1.467668ms
+2021/08/16 03:59:08 core.Run took 283.491µs
+2021/08/16 03:59:08 cli arg parse took 441.551µs
+2021/08/16 03:59:08 core.Run took 1.074471ms
+2021/08/16 03:59:08 cli arg parse took 1.573346ms
+2021/08/16 03:59:08 core.Run took 883.34µs
+2021/08/16 03:59:08 cli arg parse took 1.401076ms
+2021/08/16 03:59:08 core.Run took 860.422µs
+2021/08/16 03:59:08 cli arg parse took 1.329584ms
+2021/08/16 03:59:08 core.Run took 991.875µs
+2021/08/16 03:59:08 cli arg parse took 1.501648ms
+2021/08/16 03:59:08 core.Run took 329.247µs
+2021/08/16 03:59:08 cli arg parse took 510.545µs
+2021/08/16 03:59:08 core.Run took 1.033458ms
+2021/08/16 03:59:08 cli arg parse took 1.489654ms
+2021/08/16 03:59:08 core.Run took 1.241818ms
+2021/08/16 03:59:08 cli arg parse took 1.705685ms
+2021/08/16 03:59:08 core.Run took 851.412µs
+2021/08/16 03:59:08 cli arg parse took 1.355959ms
+2021/08/16 03:59:08 core.Run took 582.621µs
+2021/08/16 03:59:08 cli arg parse took 892.584µs
+2021/08/16 03:59:08 core.Run took 564.75µs
+2021/08/16 03:59:08 cli arg parse took 900.621µs
+2021/08/16 03:59:08 core.Run took 1.108177ms
+2021/08/16 03:59:08 cli arg parse took 1.593001ms
+2021/08/16 03:59:08 core.Run took 796.478µs
+2021/08/16 03:59:08 cli arg parse took 1.243032ms
+2021/08/16 03:59:08 core.Run took 610.542µs
+2021/08/16 03:59:08 cli arg parse took 968.169µs
+2021/08/16 03:59:08 core.Run took 573.119µs
+2021/08/16 03:59:08 cli arg parse took 905.954µs
+2021/08/16 03:59:08 core.Run took 1.115819ms
+2021/08/16 03:59:08 cli arg parse took 1.59121ms
+2021/08/16 03:59:08 core.Run took 805.958µs
+2021/08/16 03:59:08 cli arg parse took 1.265626ms
+2021/08/16 03:59:09 core.Run took 1.103504ms
+2021/08/16 03:59:09 cli arg parse took 1.607543ms
+2021/08/16 03:59:09 core.Run took 901.736µs
+2021/08/16 03:59:09 cli arg parse took 1.444807ms
+2021/08/16 03:59:09 core.Run took 1.134949ms
+2021/08/16 03:59:09 cli arg parse took 1.623327ms
+2021/08/16 03:59:09 core.Run took 1.051302ms
+2021/08/16 03:59:09 cli arg parse took 1.506459ms
+2021/08/16 03:59:09 core.Run took 1.084119ms
+2021/08/16 03:59:09 cli arg parse took 1.598197ms
+2021/08/16 03:59:09 core.Run took 766.626µs
+2021/08/16 03:59:09 cli arg parse took 1.114347ms
+2021/08/16 03:59:09 core.Run took 552.676µs
+2021/08/16 03:59:09 cli arg parse took 860.674µs
+2021/08/16 03:59:09 core.Run took 1.034552ms
+2021/08/16 03:59:09 cli arg parse took 1.457574ms
+2021/08/16 03:59:47 core.Run took 1.303751ms
+2021/08/16 03:59:47 cli arg parse took 1.784435ms
+2021/08/16 03:59:52 cli arg parse took 174.295µs
+2021/08/16 03:59:54 core.Run took 1.028499ms
+2021/08/16 03:59:54 cli arg parse took 1.355479ms
+2021/08/16 03:59:54 core.Run took 1.288042ms
+2021/08/16 03:59:54 cli arg parse took 1.757966ms
+2021/08/16 03:59:54 core.Run took 1.116128ms
+2021/08/16 03:59:54 cli arg parse took 1.573885ms
+2021/08/16 03:59:55 core.Run took 1.184639ms
+2021/08/16 03:59:55 cli arg parse took 1.639172ms
+2021/08/16 03:59:55 core.Run took 990.713µs
+2021/08/16 03:59:55 cli arg parse took 1.484449ms
+2021/08/16 04:00:00 cli arg parse took 178.364µs
+2021/08/16 04:00:15 core.Run took 897.298µs
+2021/08/16 04:00:15 cli arg parse took 1.390549ms
+2021/08/16 04:00:17 core.Run took 814.866µs
+2021/08/16 04:00:17 cli arg parse took 1.335372ms
+2021/08/16 04:00:17 core.Run took 214.528µs
+2021/08/16 04:00:17 cli arg parse took 369.609µs
+2021/08/16 04:00:18 core.Run took 952.475µs
+2021/08/16 04:00:18 cli arg parse took 1.401576ms
+2021/08/16 04:00:18 core.Run took 977.296µs
+2021/08/16 04:00:18 cli arg parse took 1.47116ms
+2021/08/16 04:00:18 core.Run took 946.949µs
+2021/08/16 04:00:18 cli arg parse took 1.478342ms
+2021/08/16 04:00:18 core.Run took 1.023404ms
+2021/08/16 04:00:18 cli arg parse took 1.487033ms
+2021/08/16 04:00:18 core.Run took 996.704µs
+2021/08/16 04:00:18 cli arg parse took 1.51851ms
+2021/08/16 04:00:19 core.Run took 358.217µs
+2021/08/16 04:00:19 cli arg parse took 520.023µs
+2021/08/16 04:00:19 core.Run took 908.216µs
+2021/08/16 04:00:19 cli arg parse took 1.358145ms
+2021/08/16 04:00:19 core.Run took 978.451µs
+2021/08/16 04:00:19 cli arg parse took 1.427976ms
+2021/08/16 04:00:19 core.Run took 1.005462ms
+2021/08/16 04:00:19 cli arg parse took 1.475166ms
+2021/08/16 04:00:19 core.Run took 1.062072ms
+2021/08/16 04:00:19 cli arg parse took 1.526529ms
+2021/08/16 04:00:20 core.Run took 1.148884ms
+2021/08/16 04:00:20 cli arg parse took 1.609297ms
+2021/08/16 04:02:55 cli arg parse took 178.131µs
+2021/08/16 04:02:58 core.Run took 2.339424ms
+2021/08/16 04:02:58 cli arg parse took 2.877401ms
+2021/08/16 04:03:07 core.Run took 2.695068ms
+2021/08/16 04:03:07 cli arg parse took 3.132974ms
+2021/08/16 04:03:53 core.Run took 993.35µs
+2021/08/16 04:03:53 cli arg parse took 1.165601ms
+2021/08/16 04:04:02 core.Run took 1.236151ms
+2021/08/16 04:04:02 cli arg parse took 1.610679ms
+2021/08/16 04:04:11 core.Run took 3.132336ms
+2021/08/16 04:04:11 cli arg parse took 3.600509ms
+2021/08/16 04:04:17 core.Run took 3.223134ms
+2021/08/16 04:04:17 cli arg parse took 3.651625ms
+2021/08/16 04:04:18 core.Run took 3.223098ms
+2021/08/16 04:04:18 cli arg parse took 3.689936ms
+2021/08/16 04:07:03 core.Run took 2.572144ms
+2021/08/16 04:07:03 cli arg parse took 3.075054ms
+2021/08/16 04:07:03 core.Run took 2.508743ms
+2021/08/16 04:07:03 cli arg parse took 2.982558ms
+2021/08/16 04:08:50 cli arg parse took 188.802µs
+2021/08/16 04:08:52 core.Run took 1.39443ms
+2021/08/16 04:08:52 cli arg parse took 1.844948ms
+2021/08/16 04:08:53 core.Run took 618.617µs
+2021/08/16 04:08:53 cli arg parse took 797.288µs
+2021/08/16 04:08:53 core.Run took 1.673839ms
+2021/08/16 04:08:53 cli arg parse took 2.132856ms
+2021/08/16 04:08:53 core.Run took 1.722384ms
+2021/08/16 04:08:53 cli arg parse took 2.241414ms
+2021/08/16 04:08:53 core.Run took 1.568303ms
+2021/08/16 04:08:53 cli arg parse took 2.094593ms
+2021/08/16 04:08:54 core.Run took 1.878736ms
+2021/08/16 04:08:54 cli arg parse took 2.382823ms
+2021/08/16 04:08:54 core.Run took 1.867407ms
+2021/08/16 04:08:54 cli arg parse took 2.359043ms
+2021/08/16 04:10:57 core.Run took 874.27µs
+2021/08/16 04:10:57 cli arg parse took 1.026882ms
+2021/08/16 04:12:16 core.Run took 3.016696ms
+2021/08/16 04:12:16 cli arg parse took 3.523758ms
+2021/08/16 04:12:17 core.Run took 2.659706ms
+2021/08/16 04:12:17 cli arg parse took 3.123952ms
+2021/08/16 04:12:19 core.Run took 3.320932ms
+2021/08/16 04:12:19 cli arg parse took 3.766511ms
+2021/08/16 04:12:19 core.Run took 2.52756ms
+2021/08/16 04:12:19 cli arg parse took 2.981431ms
+2021/08/16 04:12:19 core.Run took 2.78163ms
+2021/08/16 04:12:19 cli arg parse took 3.338456ms
+2021/08/16 04:12:53 cli arg parse took 166.152µs
+2021/08/16 04:12:57 core.Run took 3.202027ms
+2021/08/16 04:12:57 cli arg parse took 3.646056ms
+2021/08/16 04:13:17 core.Run took 966.178µs
+2021/08/16 04:13:17 cli arg parse took 1.134595ms
+2021/08/16 04:23:27 cli arg parse took 713.426µs
+2021/08/16 04:23:33 core.Run took 3.448115ms
+2021/08/16 04:23:33 cli arg parse took 3.9403ms
+2021/08/16 04:23:37 core.Run took 2.890305ms
+2021/08/16 04:23:37 cli arg parse took 3.414084ms
+2021/08/16 04:23:41 core.Run took 2.754451ms
+2021/08/16 04:23:41 cli arg parse took 3.304352ms
+2021/08/16 04:23:52 core.Run took 3.472999ms
+2021/08/16 04:23:52 cli arg parse took 4.009556ms
+2021/08/16 04:23:57 cli arg parse took 743.482µs
+2021/08/16 04:24:01 core.Run took 3.14593ms
+2021/08/16 04:24:01 cli arg parse took 3.631563ms
+2021/08/16 04:31:18 cli arg parse took 735.659µs
+2021/08/16 04:31:24 core.Run took 3.186816ms
+2021/08/16 04:31:24 cli arg parse took 3.720086ms
+2021/08/16 04:31:44 cli arg parse took 883.413µs
+2021/08/16 04:31:47 core.Run took 4.12663ms
+2021/08/16 04:31:47 cli arg parse took 4.638471ms
+2021/08/16 04:32:15 cli arg parse took 796.665µs
+2021/08/16 04:32:20 core.Run took 3.226027ms
+2021/08/16 04:32:20 cli arg parse took 3.671797ms
+2021/08/16 04:33:58 cli arg parse took 649.248µs
+2021/08/16 04:34:11 cli arg parse took 315.512µs
+2021/08/16 04:34:15 core.Run took 9.430037ms
+2021/08/16 04:34:15 cli arg parse took 9.91616ms
+2021/08/16 04:35:00 cli arg parse took 732.832µs
+2021/08/16 04:35:02 core.Run took 2.753103ms
+2021/08/16 04:35:02 cli arg parse took 3.206624ms
+2021/08/16 04:35:30 cli arg parse took 719.093µs
+2021/08/16 04:35:32 core.Run took 2.337511ms
+2021/08/16 04:35:32 cli arg parse took 2.868965ms
+2021/08/16 04:37:29 cli arg parse took 696.318µs
+2021/08/16 04:37:31 core.Run took 3.61369ms
+2021/08/16 04:37:31 cli arg parse took 4.111452ms
+2021/08/16 05:17:07 cli arg parse took 245.646µs
+2021/08/16 05:17:12 cli arg parse took 158.234µs
+2021/08/16 05:17:15 cli arg parse took 168.887µs
+2021/08/16 05:17:47 cli arg parse took 159.134µs
+2021/08/16 05:27:14 cli arg parse took 199.822µs
+2021/08/16 05:28:08 core.Run took 655.587µs
+2021/08/16 05:28:08 cli arg parse took 811.727µs
+2021/08/16 05:28:57 cli arg parse took 193.359µs
+2021/08/16 05:29:11 cli arg parse took 169.659µs
+2021/08/16 05:29:17 cli arg parse took 176.884µs
+2021/08/16 05:30:26 cli arg parse took 194.65µs
+2021/08/16 05:33:05 cli arg parse took 175.512µs
+2021/08/17 00:07:30 cli arg parse took 289.762µs
+2021/08/17 02:04:54 cli arg parse took 2.402109ms
+2021/08/17 02:05:16 cli arg parse took 202.674µs
+2021/08/17 02:05:18 core.Run took 3.548914ms
+2021/08/17 02:05:18 cli arg parse took 4.129838ms
+2021/08/17 02:05:44 core.Run took 3.587369ms
+2021/08/17 02:05:44 cli arg parse took 4.058491ms
+2021/08/17 02:09:58 cli arg parse took 227.021µs
+2021/08/17 02:10:01 core.Run took 3.543883ms
+2021/08/17 02:10:01 cli arg parse took 4.088291ms
+2021/08/17 02:11:36 cli arg parse took 255.32µs
+2021/08/17 02:11:41 core.Run took 2.893883ms
+2021/08/17 02:11:41 cli arg parse took 3.401373ms
+2021/08/17 02:14:31 cli arg parse took 207.571µs
+2021/08/17 02:14:34 core.Run took 2.655601ms
+2021/08/17 02:14:34 cli arg parse took 3.122183ms
+2021/08/17 02:14:43 cli arg parse took 221.803µs
+2021/08/17 02:14:49 core.Run took 1.126291ms
+2021/08/17 02:14:49 cli arg parse took 1.317226ms
+2021/08/17 02:15:07 cli arg parse took 200.42µs
+2021/08/17 02:15:10 core.Run took 3.206717ms
+2021/08/17 02:15:10 cli arg parse took 3.801088ms
+2021/08/17 02:15:53 cli arg parse took 198.448µs
+2021/08/17 02:15:56 core.Run took 3.115645ms
+2021/08/17 02:15:56 cli arg parse took 3.744591ms
+2021/08/17 02:24:50 core.Run took 2.852952ms
+2021/08/17 02:24:50 cli arg parse took 3.453341ms
+2021/08/17 02:25:14 cli arg parse took 205.105µs
+2021/08/17 02:25:19 core.Run took 3.116447ms
+2021/08/17 02:25:19 cli arg parse took 3.633796ms
+2021/08/17 02:38:50 cli arg parse took 198.934µs
+2021/08/17 02:38:55 core.Run took 2.662919ms
+2021/08/17 02:38:55 cli arg parse took 3.107525ms
+2021/08/17 02:39:29 cli arg parse took 221.011µs
+2021/08/17 02:39:32 core.Run took 2.558064ms
+2021/08/17 02:39:32 cli arg parse took 3.120967ms
+2021/08/17 02:39:53 cli arg parse took 230.467µs
+2021/08/17 02:39:54 core.Run took 2.398743ms
+2021/08/17 02:39:54 cli arg parse took 2.877207ms
+2021/08/17 02:41:50 cli arg parse took 231.215µs
+2021/08/17 02:41:54 core.Run took 2.975491ms
+2021/08/17 02:41:54 cli arg parse took 3.458136ms
+2021/08/17 02:44:07 cli arg parse took 774.948µs
+2021/08/17 02:44:11 core.Run took 3.181603ms
+2021/08/17 02:44:11 cli arg parse took 3.631632ms
+2021/08/17 02:44:21 cli arg parse took 758.87µs
+2021/08/17 02:44:22 core.Run took 3.154814ms
+2021/08/17 02:44:22 cli arg parse took 3.730114ms
+2021/08/17 02:44:45 cli arg parse took 771.946µs
+2021/08/17 02:44:47 core.Run took 3.129189ms
+2021/08/17 02:44:47 cli arg parse took 3.609691ms
+2021/08/17 02:44:54 cli arg parse took 818.203µs
+2021/08/17 02:44:56 core.Run took 3.301647ms
+2021/08/17 02:44:56 cli arg parse took 3.761588ms
+2021/08/17 02:45:12 cli arg parse took 722.796µs
+2021/08/17 02:45:13 core.Run took 2.82171ms
+2021/08/17 02:45:13 cli arg parse took 3.298252ms
+2021/08/17 02:45:32 cli arg parse took 1.122072ms
+2021/08/17 02:45:35 core.Run took 2.634533ms
+2021/08/17 02:45:35 cli arg parse took 3.157081ms
+2021/08/17 02:46:13 cli arg parse took 759.242µs
+2021/08/17 02:46:16 core.Run took 2.973049ms
+2021/08/17 02:46:16 cli arg parse took 3.562824ms
+2021/08/17 02:46:31 cli arg parse took 863.298µs
+2021/08/17 02:46:33 core.Run took 2.765829ms
+2021/08/17 02:46:33 cli arg parse took 3.271574ms
+2021/08/17 02:46:47 cli arg parse took 811.641µs
+2021/08/17 02:46:49 core.Run took 2.894254ms
+2021/08/17 02:46:49 cli arg parse took 3.38286ms
+2021/08/17 02:47:13 cli arg parse took 751.154µs
+2021/08/17 02:47:16 core.Run took 3.450514ms
+2021/08/17 02:47:16 cli arg parse took 3.939493ms
+2021/08/17 02:53:10 cli arg parse took 873.825µs
+2021/08/17 02:53:13 core.Run took 3.358312ms
+2021/08/17 02:53:13 cli arg parse took 3.838851ms
+2021/08/17 02:59:59 cli arg parse took 749.606µs
+2021/08/17 03:00:01 core.Run took 3.841707ms
+2021/08/17 03:00:01 cli arg parse took 4.360467ms
+2021/08/17 03:00:07 core.Run took 3.602143ms
+2021/08/17 03:00:07 cli arg parse took 4.156075ms
+2021/08/17 03:00:13 core.Run took 3.479657ms
+2021/08/17 03:00:13 cli arg parse took 3.947402ms
+2021/08/17 03:00:27 cli arg parse took 741.646µs
+2021/08/17 03:00:30 core.Run took 3.490289ms
+2021/08/17 03:00:30 cli arg parse took 3.950914ms
+2021/08/17 03:01:05 cli arg parse took 752.251µs
+2021/08/17 03:01:07 core.Run took 3.439043ms
+2021/08/17 03:01:07 cli arg parse took 3.977298ms
+2021/08/17 03:01:27 core.Run took 3.05577ms
+2021/08/17 03:01:27 cli arg parse took 3.546084ms
+2021/08/17 03:02:23 cli arg parse took 726.005µs
+2021/08/17 03:02:26 core.Run took 3.288056ms
+2021/08/17 03:02:26 cli arg parse took 3.782975ms
+2021/08/17 03:02:34 cli arg parse took 705.331µs
+2021/08/17 03:02:36 core.Run took 3.02894ms
+2021/08/17 03:02:36 cli arg parse took 3.562874ms
+2021/08/17 03:02:53 cli arg parse took 1.253282ms
+2021/08/17 03:02:56 core.Run took 3.020736ms
+2021/08/17 03:02:56 cli arg parse took 3.509879ms
+2021/08/17 03:03:39 cli arg parse took 988.001µs
+2021/08/17 03:03:44 core.Run took 3.391232ms
+2021/08/17 03:03:44 cli arg parse took 3.863929ms
+2021/08/17 03:04:20 core.Run took 3.700265ms
+2021/08/17 03:04:20 cli arg parse took 4.165959ms
+2021/08/17 03:04:21 core.Run took 2.765142ms
+2021/08/17 03:04:21 cli arg parse took 3.238694ms
+2021/08/17 03:04:41 cli arg parse took 912.587µs
+2021/08/17 03:04:45 core.Run took 3.042901ms
+2021/08/17 03:04:45 cli arg parse took 3.507031ms
+2021/08/17 03:06:02 cli arg parse took 855.347µs
+2021/08/17 03:06:05 core.Run took 3.024353ms
+2021/08/17 03:06:05 cli arg parse took 3.503567ms
+2021/08/17 03:06:50 cli arg parse took 760.938µs
+2021/08/17 03:06:52 core.Run took 3.610463ms
+2021/08/17 03:06:52 cli arg parse took 4.106041ms
+2021/08/17 03:07:09 core.Run took 3.358354ms
+2021/08/17 03:07:09 cli arg parse took 3.882698ms
+2021/08/17 03:07:10 core.Run took 2.661012ms
+2021/08/17 03:07:10 cli arg parse took 3.234884ms
+2021/08/17 03:09:15 cli arg parse took 810.492µs
+2021/08/17 03:09:17 core.Run took 3.510629ms
+2021/08/17 03:09:17 cli arg parse took 4.018139ms
+2021/08/17 03:09:56 cli arg parse took 839.593µs
+2021/08/17 03:09:59 core.Run took 3.108154ms
+2021/08/17 03:09:59 cli arg parse took 3.660095ms
+2021/08/17 03:10:12 cli arg parse took 801.448µs
+2021/08/17 03:10:15 core.Run took 3.428251ms
+2021/08/17 03:10:15 cli arg parse took 4.014325ms
+2021/08/17 03:18:37 cli arg parse took 884.801µs
+2021/08/17 03:18:39 core.Run took 3.228225ms
+2021/08/17 03:18:39 cli arg parse took 3.702157ms
+2021/08/17 03:18:55 core.Run took 3.518278ms
+2021/08/17 03:18:55 cli arg parse took 3.977352ms
+2021/08/17 03:19:08 core.Run took 3.211891ms
+2021/08/17 03:19:08 cli arg parse took 3.654634ms
+2021/08/17 03:20:59 core.Run took 2.981071ms
+2021/08/17 03:20:59 cli arg parse took 3.455778ms
+2021/08/17 03:22:03 core.Run took 2.08771ms
+2021/08/17 03:22:03 cli arg parse took 2.559949ms
+2021/08/17 03:22:05 core.Run took 3.496402ms
+2021/08/17 03:22:05 cli arg parse took 4.020935ms
+2021/08/17 03:22:18 core.Run took 2.949994ms
+2021/08/17 03:22:18 cli arg parse took 3.437637ms
+2021/08/17 03:27:06 core.Run took 3.071792ms
+2021/08/17 03:27:06 cli arg parse took 3.551927ms
+2021/08/17 03:32:11 core.Run took 2.957856ms
+2021/08/17 03:32:11 cli arg parse took 3.470489ms
+2021/08/17 03:32:49 core.Run took 3.294563ms
+2021/08/17 03:32:49 cli arg parse took 3.802565ms
+2021/08/17 03:34:58 core.Run took 4.430892ms
+2021/08/17 03:34:58 cli arg parse took 4.982079ms
+2021/08/17 03:35:05 core.Run took 3.068536ms
+2021/08/17 03:35:05 cli arg parse took 3.543265ms
+2021/08/17 03:35:21 core.Run took 2.751863ms
+2021/08/17 03:35:21 cli arg parse took 3.261712ms
+2021/08/17 03:35:24 core.Run took 2.84814ms
+2021/08/17 03:35:24 cli arg parse took 3.391486ms
+2021/08/17 03:37:45 core.Run took 2.596652ms
+2021/08/17 03:37:45 cli arg parse took 3.138402ms
+2021/08/17 03:37:49 core.Run took 2.872774ms
+2021/08/17 03:37:49 cli arg parse took 3.440427ms
+2021/08/17 03:43:49 cli arg parse took 804.435µs
+2021/08/17 03:44:06 cli arg parse took 757.501µs
+2021/08/17 03:44:24 cli arg parse took 823.293µs
+2021/08/17 03:44:59 cli arg parse took 748.623µs
+2021/08/17 03:51:10 core.Run took 2.814041ms
+2021/08/17 03:51:10 cli arg parse took 3.309015ms
+2021/08/17 03:51:26 cli arg parse took 351.153µs
+2021/08/17 03:51:32 cli arg parse took 385.578µs
+2021/08/17 03:51:47 cli arg parse took 485.244µs
+2021/08/17 03:53:22 core.Run took 2.440186ms
+2021/08/17 03:53:22 cli arg parse took 3.011887ms
+2021/08/17 03:55:48 cli arg parse took 1.027289ms
+2021/08/17 03:55:56 cli arg parse took 365.543µs
+2021/08/17 03:56:01 cli arg parse took 323.885µs
+2021/08/17 03:56:27 cli arg parse took 427.794µs
+2021/08/17 03:56:46 cli arg parse took 328.885µs
+2021/08/17 03:57:16 cli arg parse took 1.085346ms
+2021/08/17 03:57:34 cli arg parse took 376.692µs
+2021/08/17 03:57:36 core.Run took 1.755061ms
+2021/08/17 03:57:36 cli arg parse took 2.269577ms
+2021/08/17 03:58:07 cli arg parse took 362.761µs
+2021/08/17 04:00:26 cli arg parse took 383.171µs
+2021/08/18 00:56:22 cli arg parse took 339.951µs
+2021/08/18 00:56:46 cli arg parse took 319.829µs
+2021/08/18 01:01:18 cli arg parse took 442.726µs
+2021/08/18 01:06:16 cli arg parse took 345.595µs
+2021/08/18 01:06:36 cli arg parse took 382.389µs
+2021/08/18 01:09:46 cli arg parse took 318.631µs
+2021/08/18 01:10:06 cli arg parse took 337.344µs
+2021/08/18 01:11:22 cli arg parse took 317.593µs
+2021/08/18 01:15:41 cli arg parse took 326.594µs
+2021/08/18 01:17:33 cli arg parse took 786.77µs
+2021/08/18 01:21:32 cli arg parse took 951.972µs
+2021/08/18 01:21:37 cli arg parse took 323.237µs
+2021/08/18 01:27:42 cli arg parse took 941.327µs
+2021/08/18 01:29:45 cli arg parse took 301.805µs
+2021/08/18 01:29:48 cli arg parse took 761.742µs
+2021/08/18 01:46:09 cli arg parse took 774.169µs
+2021/08/18 04:59:35 cli arg parse took 777.836µs
+2021/08/18 04:59:47 cli arg parse took 308.568µs
+2021/08/18 05:00:06 cli arg parse took 288.972µs
+2021/08/18 05:02:05 cli arg parse took 318.862µs
+2021/08/18 05:02:12 cli arg parse took 1.046498ms
+2021/08/18 05:02:32 cli arg parse took 342.612µs
+2021/08/18 05:02:49 cli arg parse took 754.855µs
+2021/08/18 05:04:48 cli arg parse took 762.972µs
+2021/08/18 05:04:59 cli arg parse took 786.339µs
+2021/08/18 05:10:10 cli arg parse took 777.295µs
+2021/08/18 05:10:39 cli arg parse took 764.884µs
+2021/08/18 05:11:14 cli arg parse took 824.248µs
+2021/08/18 05:11:23 cli arg parse took 769.27µs
+2021/08/18 05:11:33 cli arg parse took 792.32µs
+2021/08/18 05:11:46 cli arg parse took 860.966µs
+2021/08/18 05:19:02 cli arg parse took 715.489µs
+2021/08/18 05:20:58 cli arg parse took 751.701µs
+2021/08/18 05:38:13 cli arg parse took 720.478µs
+2021/08/18 05:38:31 cli arg parse took 732.655µs
+2021/08/18 05:38:41 cli arg parse took 771.735µs
+2021/08/18 05:39:30 cli arg parse took 844.29µs
+2021/08/18 05:39:57 cli arg parse took 745.025µs
+2021/08/18 05:40:57 cli arg parse took 702.646µs
+2021/08/18 05:41:25 cli arg parse took 744.152µs
+2021/08/18 05:41:37 cli arg parse took 708.335µs
+2021/08/18 05:46:06 cli arg parse took 723.608µs
+2021/08/18 05:46:39 cli arg parse took 876.753µs
+2021/08/18 05:47:07 cli arg parse took 983.34µs
+2021/08/18 05:47:43 cli arg parse took 819.44µs
+2021/08/18 05:48:15 cli arg parse took 718.089µs
+2021/08/18 05:48:55 cli arg parse took 726.191µs
+2021/08/18 05:49:09 cli arg parse took 808.502µs
+2021/08/18 05:49:17 cli arg parse took 828.366µs
+2021/08/18 05:50:09 cli arg parse took 711.574µs
+2021/08/18 05:50:21 cli arg parse took 748.877µs
+2021/08/18 05:50:26 cli arg parse took 718.121µs
+2021/08/18 05:58:29 cli arg parse took 727.867µs
+2021/08/18 05:58:43 cli arg parse took 804.59µs
+2021/08/18 05:59:03 cli arg parse took 331.702µs
+2021/08/18 05:59:24 cli arg parse took 370.845µs
+2021/08/18 06:05:59 cli arg parse took 281.787µs
+2021/08/18 06:18:12 cli arg parse took 735.951µs
+2021/08/18 06:18:15 cli arg parse took 313.682µs
+2021/08/18 06:18:39 cli arg parse took 757.245µs
+2021/08/18 06:20:43 cli arg parse took 723.844µs
+2021/08/18 06:20:50 cli arg parse took 727.601µs
+2021/08/18 06:23:06 cli arg parse took 698.604µs
+2021/08/18 06:23:57 cli arg parse took 713.697µs
+2021/08/18 06:28:50 core.Run took 2.651125ms
+2021/08/18 06:28:50 cli arg parse took 3.122725ms
+2021/08/18 06:41:07 cli arg parse took 300.889µs
+2021/08/18 06:41:42 cli arg parse took 838.744µs
+2021/08/18 06:50:53 cli arg parse took 707.061µs
+2021/08/18 06:58:09 cli arg parse took 813.431µs
+2021/08/18 06:58:29 cli arg parse took 802.683µs
+2021/08/18 06:59:47 cli arg parse took 727.558µs
+2021/08/18 06:59:53 cli arg parse took 384.114µs
+2021/08/18 07:14:54 cli arg parse took 650.228µs
+2021/08/18 07:14:58 cli arg parse took 298.146µs
+2021/08/18 07:22:32 cli arg parse took 305.749µs
+2021/08/18 07:22:38 core.Run took 2.476676ms
+2021/08/18 07:22:38 cli arg parse took 2.940483ms
+2021/08/18 07:22:48 core.Run took 3.147877ms
+2021/08/18 07:22:48 cli arg parse took 3.662759ms
+2021/08/18 07:23:39 core.Run took 2.024506ms
+2021/08/18 07:23:39 cli arg parse took 2.54138ms
+2021/08/18 07:23:40 core.Run took 1.946702ms
+2021/08/18 07:23:40 cli arg parse took 2.413769ms
+2021/08/18 07:23:40 core.Run took 1.624587ms
+2021/08/18 07:23:40 cli arg parse took 2.072252ms
+2021/08/18 07:23:41 core.Run took 2.058254ms
+2021/08/18 07:23:41 cli arg parse took 2.504591ms
+2021/08/18 07:23:41 core.Run took 2.013938ms
+2021/08/18 07:23:41 cli arg parse took 2.494238ms
+2021/08/18 07:23:41 core.Run took 1.977875ms
+2021/08/18 07:23:41 cli arg parse took 2.536248ms
+2021/08/18 07:23:41 core.Run took 1.590946ms
+2021/08/18 07:23:41 cli arg parse took 2.037805ms
+2021/08/18 07:23:41 core.Run took 2.203208ms
+2021/08/18 07:23:41 cli arg parse took 2.674398ms
+2021/08/18 07:23:42 core.Run took 2.263848ms
+2021/08/18 07:23:42 cli arg parse took 2.76365ms
+2021/08/18 07:23:42 core.Run took 2.243781ms
+2021/08/18 07:23:42 cli arg parse took 2.739164ms
+2021/08/18 07:23:42 core.Run took 2.72681ms
+2021/08/18 07:23:42 cli arg parse took 3.195478ms
+2021/08/18 07:23:42 core.Run took 2.509414ms
+2021/08/18 07:23:42 cli arg parse took 2.991062ms
+2021/08/18 07:23:42 core.Run took 2.287549ms
+2021/08/18 07:23:42 cli arg parse took 2.794989ms
+2021/08/18 07:23:42 core.Run took 2.52924ms
+2021/08/18 07:23:42 cli arg parse took 3.010997ms
+2021/08/18 07:23:42 core.Run took 2.44184ms
+2021/08/18 07:23:42 cli arg parse took 2.898693ms
+2021/08/18 07:23:43 core.Run took 2.734655ms
+2021/08/18 07:23:43 cli arg parse took 3.260977ms
+2021/08/18 07:23:43 core.Run took 1.551467ms
+2021/08/18 07:23:43 cli arg parse took 2.018346ms
+2021/08/18 07:23:43 core.Run took 1.515723ms
+2021/08/18 07:23:43 cli arg parse took 1.94999ms
+2021/08/18 07:23:45 core.Run took 3.231678ms
+2021/08/18 07:23:45 cli arg parse took 3.703566ms
+2021/08/18 07:23:47 core.Run took 1.858836ms
+2021/08/18 07:23:47 cli arg parse took 2.364453ms
+2021/08/18 07:23:49 core.Run took 3.022727ms
+2021/08/18 07:23:49 cli arg parse took 3.510818ms
+2021/08/18 07:24:29 cli arg parse took 2.472183ms
+2021/08/18 07:24:39 cli arg parse took 2.162368ms
+2021/08/18 19:26:21 cli arg parse took 1.11957ms
+2021/08/19 00:02:06 cli arg parse took 630.847µs
+2021/08/19 00:18:16 cli arg parse took 652.852µs
+2021/08/19 00:25:59 cli arg parse took 513.785µs
+2021/08/19 00:34:59 cli arg parse took 915.398µs
+2021/08/19 01:28:40 cli arg parse took 1.280013ms
+2021/08/19 01:35:55 cli arg parse took 494.022µs
+2021/08/19 01:42:07 cli arg parse took 1.147603ms
+2021/08/19 01:43:00 core.Run took 10.415427ms
+2021/08/19 01:43:00 cli arg parse took 10.990548ms
+2021/08/19 01:51:03 cli arg parse took 624.483µs
+2021/08/19 02:05:06 cli arg parse took 1.130108ms
+2021/08/19 02:44:07 cli arg parse took 1.33618ms
+2021/08/19 03:12:39 cli arg parse took 498.61µs
+2021/08/19 03:15:39 cli arg parse took 825.848µs
+2021/08/19 03:18:51 cli arg parse took 812.24µs
+2021/08/19 03:26:49 cli arg parse took 1.205593ms
+2021/08/19 03:27:44 core.Run took 9.635092ms
+2021/08/19 03:27:44 cli arg parse took 10.113283ms
+2021/08/19 03:40:35 cli arg parse took 901.662µs
+2021/08/19 03:53:37 cli arg parse took 182.029µs
+2021/08/19 05:51:41 cli arg parse took 241.385µs
+2021/08/19 06:05:29 cli arg parse took 291.311µs
+2021/08/19 06:06:23 cli arg parse took 509.402µs
+2021/08/19 06:20:24 cli arg parse took 1.118284ms
+2021/08/19 06:29:42 cli arg parse took 411.608µs
+2021/08/19 06:34:12 cli arg parse took 1.172268ms
+2021/08/19 06:51:00 cli arg parse took 1.224767ms
+2021/08/19 06:59:36 cli arg parse took 317.096µs
+2021/08/19 07:00:42 cli arg parse took 291.157µs
+2021/08/19 07:24:40 cli arg parse took 372.476µs
+2021/08/19 18:33:52 cli arg parse took 333.547µs
+2021/08/19 18:34:19 cli arg parse took 802.531µs
+2021/08/19 18:38:22 cli arg parse took 830.178µs
+2021/08/19 18:41:24 cli arg parse took 374.706µs
+2021/08/19 18:41:38 cli arg parse took 738.025µs
+2021/08/19 18:41:46 cli arg parse took 730.437µs
+2021/08/19 18:41:50 cli arg parse took 358.898µs
+2021/08/19 22:06:22 cli arg parse took 385.855µs
+2021/08/19 22:08:50 cli arg parse took 263.765µs
+2021/08/19 22:09:22 cli arg parse took 336.715µs
+2021/08/19 22:42:36 cli arg parse took 297.668µs
+2021/08/19 22:56:09 core.Run took 2.242242ms
+2021/08/19 22:56:09 cli arg parse took 2.700016ms
+2021/08/19 22:56:09 core.Run took 2.25498ms
+2021/08/19 22:56:09 cli arg parse took 2.745892ms
+2021/08/19 22:56:09 core.Run took 1.670472ms
+2021/08/19 22:56:09 cli arg parse took 2.240327ms
+2021/08/19 22:56:10 core.Run took 1.796236ms
+2021/08/19 22:56:10 cli arg parse took 2.347163ms
+2021/08/19 22:56:11 core.Run took 2.230123ms
+2021/08/19 22:56:11 cli arg parse took 2.713756ms
+2021/08/19 22:56:11 core.Run took 1.873783ms
+2021/08/19 22:56:11 cli arg parse took 2.322958ms
+2021/08/19 22:56:11 core.Run took 2.247084ms
+2021/08/19 22:56:11 cli arg parse took 2.806512ms
+2021/08/19 22:56:13 core.Run took 1.930323ms
+2021/08/19 22:56:13 cli arg parse took 2.389314ms
+2021/08/19 22:56:13 core.Run took 1.899238ms
+2021/08/19 22:56:13 cli arg parse took 2.36927ms
+2021/08/19 22:56:16 core.Run took 2.187719ms
+2021/08/19 22:56:16 cli arg parse took 2.706509ms
+2021/08/19 22:56:16 core.Run took 2.015955ms
+2021/08/19 22:56:16 cli arg parse took 2.530075ms
+2021/08/19 22:56:16 core.Run took 1.917353ms
+2021/08/19 22:56:16 cli arg parse took 2.36854ms
+2021/08/19 22:57:31 core.Run took 2.347466ms
+2021/08/19 22:57:31 cli arg parse took 2.795414ms
+2021/08/19 22:57:32 core.Run took 1.484478ms
+2021/08/19 22:57:32 cli arg parse took 1.8116ms
+2021/08/19 22:57:32 core.Run took 2.769517ms
+2021/08/19 22:57:32 cli arg parse took 3.241943ms
+2021/08/19 22:57:33 core.Run took 696.02µs
+2021/08/19 22:57:33 cli arg parse took 857.756µs
+2021/08/19 22:57:33 core.Run took 771.244µs
+2021/08/19 22:57:33 cli arg parse took 980.582µs
+2021/08/19 23:04:11 cli arg parse took 198.14µs
+2021/08/19 23:04:24 cli arg parse took 207.991µs
+2021/08/19 23:05:01 cli arg parse took 211.457µs
+2021/08/19 23:06:27 cli arg parse took 194.794µs
+2021/08/19 23:07:14 cli arg parse took 201.508µs
+2021/08/19 23:07:31 core.Run took 2.055436ms
+2021/08/19 23:07:31 cli arg parse took 2.501949ms
+2021/08/19 23:07:31 core.Run took 829.544µs
+2021/08/19 23:07:31 cli arg parse took 1.073427ms
+2021/08/19 23:07:32 core.Run took 1.613812ms
+2021/08/19 23:07:32 cli arg parse took 1.975116ms
+2021/08/19 23:07:32 core.Run took 2.197892ms
+2021/08/19 23:07:32 cli arg parse took 2.661354ms
+2021/08/19 23:07:33 core.Run took 2.056367ms
+2021/08/19 23:07:33 cli arg parse took 2.500977ms
+2021/08/19 23:07:34 core.Run took 535.935µs
+2021/08/19 23:07:34 cli arg parse took 708.125µs
+2021/08/19 23:07:35 core.Run took 2.072954ms
+2021/08/19 23:07:35 cli arg parse took 2.541742ms
+2021/08/19 23:07:35 core.Run took 2.010665ms
+2021/08/19 23:07:35 cli arg parse took 2.499867ms
+2021/08/19 23:09:31 cli arg parse took 204.187µs
+2021/08/19 23:09:58 cli arg parse took 188.381µs
+2021/08/19 23:10:24 cli arg parse took 202.826µs
+2021/08/19 23:11:13 cli arg parse took 199.85µs
+2021/08/19 23:11:48 cli arg parse took 191.942µs
+2021/08/20 00:28:32 cli arg parse took 349.508µs
+2021/08/20 01:13:31 cli arg parse took 182.716µs
+2021/08/20 04:26:11 cli arg parse took 1.334324ms
+2021/08/20 04:27:20 cli arg parse took 363.498µs
+2021/08/20 04:29:09 cli arg parse took 432.422µs
+2021/08/20 04:56:16 cli arg parse took 391.43µs
+2021/08/20 05:10:37 cli arg parse took 1.342728ms
+2021/08/20 05:11:17 cli arg parse took 305.963µs
+2021/08/20 05:24:27 cli arg parse took 1.103574ms
+2021/08/20 05:36:28 cli arg parse took 1.392778ms
+2021/08/20 05:40:08 cli arg parse took 1.088651ms
+2021/08/20 05:44:34 cli arg parse took 472.035µs
+2021/08/20 20:08:03 cli arg parse took 1.23114ms
+2021/08/20 20:20:54 cli arg parse took 1.349187ms
+2021/08/20 20:28:29 cli arg parse took 1.175499ms
+2021/08/20 20:47:22 cli arg parse took 1.174183ms
+2021/08/20 21:03:53 cli arg parse took 1.147837ms
+2021/08/20 21:10:35 cli arg parse took 241.28µs
+2021/08/20 21:11:21 cli arg parse took 264.197µs
+2021/08/20 21:12:14 cli arg parse took 273.172µs
+2021/08/20 21:13:55 cli arg parse took 1.272254ms
+2021/08/20 21:21:03 cli arg parse took 253.076µs
+2021/08/20 21:21:53 core.Run took 2.626319ms
+2021/08/20 21:21:53 cli arg parse took 3.014445ms
+2021/08/21 03:20:45 cli arg parse took 191.337µs
+2021/08/22 02:20:17 cli arg parse took 504.286µs
+2021/08/22 04:14:23 cli arg parse took 174.572µs
+2021/08/22 23:55:55 cli arg parse took 201.527µs
+2021/08/24 00:45:24 cli arg parse took 306.623µs
+2021/08/24 00:55:11 cli arg parse took 682.001µs
+2021/08/24 00:55:33 cli arg parse took 263.396µs
+2021/08/24 00:55:50 cli arg parse took 290.678µs
+2021/08/24 00:55:54 cli arg parse took 250.18µs
+2021/08/24 00:56:09 cli arg parse took 495.581µs
+2021/08/24 00:56:12 cli arg parse took 250.138µs
+2021/08/24 00:56:38 cli arg parse took 300.666µs
+2021/08/24 00:57:26 cli arg parse took 265.032µs
+2021/08/24 01:03:08 cli arg parse took 1.222126ms
+2021/08/24 01:14:55 cli arg parse took 493.418µs
+2021/08/24 01:15:33 cli arg parse took 265.003µs
+2021/08/24 01:18:12 cli arg parse took 246.266µs
+2021/08/24 01:18:28 cli arg parse took 294.05µs
+2021/08/24 01:20:05 cli arg parse took 244.748µs
+2021/08/24 01:20:36 cli arg parse took 248.026µs
+2021/08/24 01:20:53 cli arg parse took 275.127µs
+2021/08/24 01:28:12 cli arg parse took 277.817µs
+2021/08/24 06:27:35 cli arg parse took 1.221708ms
+2021/08/24 23:56:40 cli arg parse took 1.12351ms
+2021/08/24 23:56:44 cli arg parse took 345.116µs
+2021/08/27 06:38:58 cli arg parse took 192.074µs
+2021/08/27 07:05:45 cli arg parse took 168.389µs
+2021/08/27 07:14:33 cli arg parse took 1.259344ms
+2021/08/27 07:15:12 cli arg parse took 200.402µs
+2021/08/27 07:15:26 cli arg parse took 195.982µs
+2021/08/27 07:16:10 cli arg parse took 224.936µs
+2021/08/27 07:16:42 cli arg parse took 190.924µs
+2021/08/27 07:21:14 cli arg parse took 203.588µs
+2021/08/27 07:26:45 cli arg parse took 176.843µs
+2021/08/27 08:41:17 cli arg parse took 1.146521ms
+2021/08/27 21:00:04 cli arg parse took 322.25µs
+2021/08/28 05:28:13 cli arg parse took 196.414µs
+2021/08/28 05:50:26 cli arg parse took 199.555µs
+2021/08/28 06:20:58 cli arg parse took 188.882µs
+2021/08/28 06:24:40 cli arg parse took 182.746µs
+2021/08/28 06:42:02 cli arg parse took 301.677µs
+2021/08/28 07:29:06 cli arg parse took 791.454µs
+2021/08/28 07:51:06 cli arg parse took 197.676µs
+2021/08/28 08:22:15 core.Run took 4.903216ms
+2021/08/28 08:22:15 cli arg parse took 5.638894ms
+2021/08/28 08:27:14 cli arg parse took 506.206µs
+2021/08/28 09:03:12 cli arg parse took 844.141µs
+2021/08/28 09:04:53 cli arg parse took 573.889µs
+2021/08/29 03:38:10 cli arg parse took 320.249µs
+2021/08/29 03:38:42 cli arg parse took 761.536µs
+2021/08/29 04:17:52 cli arg parse took 243.068µs
+2021/08/29 04:18:33 cli arg parse took 337.205µs
+2021/08/29 04:47:20 cli arg parse took 207.832µs
+2021/08/29 04:49:02 cli arg parse took 170.182µs
+2021/08/29 05:49:53 cli arg parse took 283.839µs
+2021/08/29 05:50:02 cli arg parse took 155.979µs
+2021/08/29 06:09:56 core.Run took 765.633µs
+2021/08/29 06:09:56 cli arg parse took 872.942µs
+2021/08/29 06:15:32 core.Run took 535.387µs
+2021/08/29 06:15:32 cli arg parse took 720.425µs
+2021/08/29 06:23:10 cli arg parse took 167.773µs
+2021/08/29 06:51:40 cli arg parse took 161.342µs
+2021/08/29 08:13:54 cli arg parse took 165.04µs
+2021/08/29 08:14:24 cli arg parse took 167.108µs
+2021/08/29 08:18:48 cli arg parse took 179.067µs
+2021/08/29 08:54:23 core.Run took 831.634µs
+2021/08/29 08:54:23 cli arg parse took 940.149µs
+2021/08/29 09:22:35 cli arg parse took 177.371µs
+2021/08/29 09:29:02 cli arg parse took 164.754µs
+2021/08/29 09:33:16 cli arg parse took 176.61µs
+2021/08/29 09:37:49 cli arg parse took 313.722µs
+2021/08/29 09:39:27 cli arg parse took 164.096µs
+2021/08/29 09:48:25 cli arg parse took 183.211µs
+2021/08/29 09:49:12 cli arg parse took 204.05µs
+2021/08/29 09:55:18 cli arg parse took 257.84µs
+2021/08/29 09:56:24 cli arg parse took 182.693µs
+2021/08/29 10:06:38 cli arg parse took 196.605µs
+2021/08/29 10:18:52 cli arg parse took 184.564µs
+2021/08/29 10:51:15 cli arg parse took 201.048µs
+2021/08/29 11:07:50 cli arg parse took 181.785µs
+2021/08/29 11:36:19 cli arg parse took 180.061µs
+2021/08/30 03:49:13 cli arg parse took 196.098µs
+2021/08/30 09:35:23 cli arg parse took 315.56µs
+2021/08/30 12:26:11 cli arg parse took 327.752µs
+2021/08/30 22:18:04 cli arg parse took 869.904µs
+2021/08/31 09:22:36 cli arg parse took 905.03µs
+2021/08/31 09:45:11 cli arg parse took 387.743µs
+2021/08/31 09:51:33 cli arg parse took 196.211µs
+2021/08/31 09:53:02 core.Run took 10.357646ms
+2021/08/31 09:53:02 cli arg parse took 10.847617ms
+2021/08/31 09:53:03 core.Run took 3.341911ms
+2021/08/31 09:53:03 cli arg parse took 3.841097ms
+2021/08/31 09:58:10 cli arg parse took 533.357µs
+2021/08/31 10:18:20 cli arg parse took 533.369µs
+2021/08/31 10:35:06 cli arg parse took 301.23µs
+2021/08/31 10:35:32 cli arg parse took 187.649µs
+2021/08/31 10:42:21 cli arg parse took 861.761µs
+2021/09/01 02:42:50 cli arg parse took 211.62µs
+2021/09/01 03:34:48 cli arg parse took 205.625µs
+2021/09/01 03:37:49 core.Run took 940.329µs
+2021/09/01 03:37:49 cli arg parse took 1.102234ms
+2021/09/01 11:37:52 cli arg parse took 835.115µs
+2021/09/01 12:20:29 core.Run took 2.755543ms
+2021/09/01 12:20:29 cli arg parse took 3.386354ms
+2021/09/01 12:20:32 core.Run took 3.159078ms
+2021/09/01 12:20:32 cli arg parse took 3.65819ms
+2021/09/01 12:20:35 core.Run took 2.746468ms
+2021/09/01 12:20:35 cli arg parse took 3.251085ms
+2021/09/01 12:20:36 core.Run took 2.843442ms
+2021/09/01 12:20:36 cli arg parse took 3.314896ms
+2021/09/02 02:06:04 cli arg parse took 988.28µs
+2021/09/02 02:11:21 cli arg parse took 760.169µs
+2021/09/02 02:12:54 cli arg parse took 205.023µs
+2021/09/02 02:16:26 cli arg parse took 585.054µs
+2021/09/02 03:41:59 cli arg parse took 172.825µs
+2021/09/02 12:44:49 cli arg parse took 250.612µs
+2021/09/02 12:50:26 cli arg parse took 240.066µs
+2021/09/02 12:53:45 cli arg parse took 237.499µs
+2021/09/02 13:06:51 cli arg parse took 777.376µs
+2021/09/02 13:17:29 cli arg parse took 655.9µs
+2021/09/02 14:04:12 cli arg parse took 184.746µs
+2021/09/02 14:04:49 cli arg parse took 203.707µs
+2021/09/02 14:31:18 cli arg parse took 374.99µs
+2021/09/02 14:41:08 cli arg parse took 920.933µs
+2021/09/02 15:03:21 cli arg parse took 680.005µs
+2021/09/02 15:11:55 cli arg parse took 701.688µs
+2021/09/02 15:16:02 cli arg parse took 199.904µs
+2021/09/02 15:17:04 cli arg parse took 189.303µs
+2021/09/02 15:19:30 cli arg parse took 192.283µs
+2021/09/02 15:19:55 cli arg parse took 179.556µs
+2021/09/03 03:02:01 cli arg parse took 380.115µs
+2021/09/03 03:13:06 cli arg parse took 1.014781ms
+2021/09/03 03:40:51 cli arg parse took 170.921µs
+2021/09/03 03:44:03 cli arg parse took 171.084µs
+2021/09/03 04:16:21 cli arg parse took 581.607µs
+2021/09/03 04:21:09 cli arg parse took 345.6µs
+2021/09/03 04:26:02 cli arg parse took 798.51µs
+2021/09/03 04:26:40 cli arg parse took 536.943µs
+2021/09/03 11:36:36 cli arg parse took 396.738µs
+2021/09/03 11:57:58 cli arg parse took 261.897µs
+2021/09/03 11:58:11 core.Run took 776.611µs
+2021/09/03 11:58:11 cli arg parse took 951.491µs
+2021/09/03 11:58:55 cli arg parse took 244.932µs
+2021/09/03 11:59:26 cli arg parse took 246.694µs
+2021/09/03 12:05:00 cli arg parse took 244.643µs
+2021/09/03 12:09:17 cli arg parse took 245.001µs
+2021/09/03 12:43:50 cli arg parse took 449.264µs
+2021/09/03 13:46:04 cli arg parse took 294.547µs
+2021/09/03 13:53:40 cli arg parse took 853.843µs
+2021/09/03 13:57:11 cli arg parse took 266.714µs
+2021/09/03 13:58:45 cli arg parse took 555.423µs
+2021/09/03 14:14:37 cli arg parse took 620.767µs
+2021/09/03 14:47:28 cli arg parse took 275.239µs
+2021/09/03 14:48:23 cli arg parse took 411.327µs
+2021/09/03 14:58:13 core.Run took 2.678194ms
+2021/09/03 14:58:13 cli arg parse took 3.198421ms
+2021/09/03 14:59:19 cli arg parse took 722.542µs
+2021/09/03 15:01:09 cli arg parse took 354.661µs
+2021/09/03 16:27:21 cli arg parse took 180.465µs
+2021/09/03 16:47:55 cli arg parse took 193.238µs
+2021/09/03 16:48:56 core.Run took 941.186µs
+2021/09/03 16:48:56 cli arg parse took 1.095784ms
+2021/09/03 17:25:36 cli arg parse took 181.562µs
+2021/09/03 17:26:29 cli arg parse took 882.094µs
+2021/09/03 18:05:26 cli arg parse took 217.227µs
+2021/09/03 18:05:33 cli arg parse took 194.824µs
+2021/09/04 09:14:42 cli arg parse took 905.872µs
+2021/09/04 09:23:17 core.Run took 2.773394ms
+2021/09/04 09:23:17 cli arg parse took 3.443268ms
+2021/09/04 09:23:17 core.Run took 2.387126ms
+2021/09/04 09:23:17 cli arg parse took 2.877038ms
+2021/09/04 09:23:18 core.Run took 2.386302ms
+2021/09/04 09:23:18 cli arg parse took 2.893513ms
+2021/09/04 09:23:18 core.Run took 2.107124ms
+2021/09/04 09:23:18 cli arg parse took 2.59787ms
+2021/09/04 13:39:12 cli arg parse took 357.949µs
+2021/09/04 13:49:34 cli arg parse took 520.232µs
+2021/09/04 13:51:37 cli arg parse took 512.022µs
+2021/09/04 14:00:52 cli arg parse took 809.912µs
+2021/09/04 14:25:28 cli arg parse took 589.305µs
+2021/09/04 14:28:55 cli arg parse took 786.179µs
+2021/09/04 14:33:58 cli arg parse took 696.347µs
+2021/09/04 19:26:47 cli arg parse took 774.264µs
+2021/09/04 19:38:58 cli arg parse took 309.257µs
+2021/09/04 19:59:15 cli arg parse took 504.963µs
+2021/09/04 20:06:59 cli arg parse took 391.058µs
+2021/09/04 20:09:17 cli arg parse took 313.447µs
+2021/09/04 20:09:24 cli arg parse took 289.687µs
+2021/09/04 20:10:47 cli arg parse took 610.997µs
+2021/09/04 20:12:01 cli arg parse took 272.907µs
+2021/09/04 20:33:12 cli arg parse took 579.393µs
+2021/09/04 20:33:39 cli arg parse took 702.509µs
+2021/09/04 20:33:58 cli arg parse took 691.45µs
+2021/09/04 20:34:33 cli arg parse took 306.067µs
+2021/09/04 20:35:04 cli arg parse took 276.445µs
+2021/09/04 20:36:23 cli arg parse took 389.797µs
+2021/09/04 20:36:37 cli arg parse took 305.139µs
+2021/09/04 20:36:59 cli arg parse took 289.838µs
+2021/09/04 20:37:17 cli arg parse took 284.255µs
+2021/09/04 20:37:38 cli arg parse took 275.614µs
+2021/09/04 20:37:49 cli arg parse took 317.303µs
+2021/09/04 20:39:16 cli arg parse took 298.845µs
+2021/09/04 20:39:44 cli arg parse took 284.221µs
+2021/09/04 20:40:08 cli arg parse took 407.08µs
+2021/09/04 20:40:26 cli arg parse took 275.334µs
+2021/09/04 20:41:11 cli arg parse took 615.184µs
+2021/09/04 20:43:37 cli arg parse took 272.51µs
+2021/09/04 20:44:06 cli arg parse took 341.483µs
+2021/09/04 20:46:48 cli arg parse took 265.889µs
+2021/09/04 20:47:59 cli arg parse took 851.208µs
+2021/09/04 20:48:07 cli arg parse took 702.735µs
+2021/09/04 20:48:12 cli arg parse took 242.606µs
+2021/09/04 20:48:39 cli arg parse took 626.351µs
+2021/09/04 20:50:31 cli arg parse took 698.698µs
+2021/09/04 20:51:15 cli arg parse took 309.213µs
+2021/09/04 20:52:33 core.Run took 2.728691ms
+2021/09/04 20:52:33 cli arg parse took 3.184616ms
+2021/09/04 20:56:11 cli arg parse took 278.168µs
+2021/09/04 20:56:27 cli arg parse took 326.127µs
+2021/09/04 21:20:46 cli arg parse took 695.662µs
+2021/09/04 21:28:15 cli arg parse took 267.028µs
+2021/09/04 21:29:20 cli arg parse took 563.325µs
+2021/09/04 21:30:00 cli arg parse took 680.752µs
+2021/09/04 21:30:30 cli arg parse took 365.898µs
+2021/09/04 21:33:29 cli arg parse took 459.206µs
+2021/09/04 21:36:18 cli arg parse took 716.001µs
+2021/09/04 21:37:58 cli arg parse took 643.991µs
+2021/09/04 21:38:57 cli arg parse took 608.79µs
+2021/09/04 21:40:39 cli arg parse took 288.579µs
+2021/09/04 21:46:10 cli arg parse took 563.478µs
+2021/09/04 21:46:57 cli arg parse took 449.555µs
+2021/09/04 21:47:42 cli arg parse took 348.144µs
+2021/09/04 21:50:36 cli arg parse took 306.726µs
+2021/09/05 13:19:14 cli arg parse took 346.133µs
+2021/09/05 14:26:45 cli arg parse took 496.089µs
+2021/09/05 15:00:04 cli arg parse took 181.731µs
+2021/09/05 15:04:13 cli arg parse took 182.225µs
+2021/09/05 21:29:32 cli arg parse took 1.041377ms
+2021/09/05 21:35:29 cli arg parse took 183.87µs
+2021/09/05 21:35:31 cli arg parse took 183.688µs
+2021/09/05 22:00:32 cli arg parse took 211.419µs
+2021/09/05 22:02:27 cli arg parse took 176.362µs
+2021/09/05 22:05:17 cli arg parse took 188.753µs
+2021/09/06 15:43:28 cli arg parse took 175.358µs
+2021/09/06 15:55:43 cli arg parse took 191.474µs
+2021/09/06 16:09:38 cli arg parse took 178.771µs
+2021/09/07 17:38:22 cli arg parse took 193.774µs
+2021/09/07 17:38:30 cli arg parse took 216.796µs
+2021/09/07 18:13:29 cli arg parse took 197.068µs
+2021/09/07 18:30:53 cli arg parse took 153.621µs
+2021/09/07 19:30:03 cli arg parse took 587.774µs
+2021/09/07 20:29:28 cli arg parse took 887.667µs
+2021/09/07 21:24:01 cli arg parse took 182.2µs
+2021/09/07 23:17:27 cli arg parse took 265.765µs
+2021/09/07 23:17:45 cli arg parse took 225.469µs
+2021/09/07 23:30:22 core.Run took 3.69485ms
+2021/09/07 23:30:22 cli arg parse took 4.362444ms
+2021/09/07 23:32:44 cli arg parse took 340.109µs
+2021/09/07 23:34:27 cli arg parse took 785.054µs
+2021/09/08 11:05:59 core.Run took 2.615555ms
+2021/09/08 11:05:59 cli arg parse took 3.144416ms
+2021/09/08 11:29:32 cli arg parse took 234.151µs
+2021/09/08 11:30:36 core.Run took 2.948196ms
+2021/09/08 11:30:36 cli arg parse took 3.524527ms
+2021/09/08 11:32:30 cli arg parse took 194.805µs
+2021/09/08 11:39:39 cli arg parse took 981.382µs
+2021/09/08 11:43:13 cli arg parse took 636.344µs
+2021/09/08 11:52:05 cli arg parse took 408.443µs
+2021/09/08 11:54:00 cli arg parse took 307.64µs
+2021/09/08 14:12:51 cli arg parse took 702.909µs
+2021/09/08 14:15:01 cli arg parse took 546.942µs
+2021/09/08 14:15:47 cli arg parse took 301.914µs
+2021/09/09 09:58:51 cli arg parse took 369.148µs
+2021/09/09 09:59:03 cli arg parse took 329.847µs
+2021/09/09 09:59:08 cli arg parse took 373.57µs
+2021/09/09 10:00:25 cli arg parse took 368.27µs
+2021/09/09 18:34:42 cli arg parse took 299.067µs
+2021/09/09 18:37:39 cli arg parse took 323.301µs
+2021/09/10 12:07:13 cli arg parse took 225.242µs
+2021/09/10 12:10:23 cli arg parse took 207.398µs
+2021/09/10 19:55:46 cli arg parse took 185.826µs
+2021/09/10 19:55:55 cli arg parse took 173.578µs
+2021/09/10 20:20:25 cli arg parse took 163.282µs
+2021/09/10 21:36:03 core.Run took 963.192µs
+2021/09/10 21:36:03 cli arg parse took 1.155179ms
+2021/09/12 15:23:08 cli arg parse took 207.53µs
+2021/09/12 18:12:25 cli arg parse took 389.345µs
+2021/09/13 19:06:46 cli arg parse took 789.87µs
+2021/09/13 19:42:55 cli arg parse took 175.617µs
+2021/09/13 19:43:42 cli arg parse took 180.064µs
+2021/09/14 13:46:25 cli arg parse took 200.526µs
+2021/09/14 16:26:34 cli arg parse took 162.638µs
+2021/09/14 16:42:39 cli arg parse took 185.192µs
+2021/09/14 17:01:54 cli arg parse took 324.922µs
+2021/09/14 20:56:07 cli arg parse took 238.199µs
+2021/09/14 21:50:21 cli arg parse took 188.568µs
+2021/09/19 16:34:01 cli arg parse took 311.133µs
+2021/09/19 16:34:04 cli arg parse took 356.595µs
+2021/09/19 17:25:02 cli arg parse took 398.185µs
+2021/09/19 22:09:08 cli arg parse took 351.486µs
+2021/09/19 22:13:31 cli arg parse took 309.966µs
+2021/09/21 01:45:27 cli arg parse took 238.624µs
+2021/09/21 01:46:57 cli arg parse took 171.386µs
+2021/09/21 01:51:37 cli arg parse took 153.749µs
+2021/09/21 17:48:59 cli arg parse took 326.514µs
+2021/09/21 18:33:47 cli arg parse took 204.194µs
+2021/09/21 18:40:46 cli arg parse took 225.087µs
+2021/09/21 18:55:58 core.Run took 1.505617ms
+2021/09/21 18:55:58 cli arg parse took 1.814444ms
+2021/09/21 18:55:58 core.Run took 1.015662ms
+2021/09/21 18:55:58 cli arg parse took 1.26175ms
+2021/09/21 20:05:31 core.Run took 1.477807ms
+2021/09/21 20:05:31 cli arg parse took 1.721142ms
+2021/09/21 20:05:39 cli arg parse took 269.275µs
+2021/09/21 20:32:57 cli arg parse took 401.152µs
+2021/09/21 20:34:28 cli arg parse took 424.097µs
+2021/09/22 14:12:49 cli arg parse took 280.208µs
+2021/09/22 14:14:09 core.Run took 3.058416ms
+2021/09/22 14:14:09 cli arg parse took 3.704353ms
+2021/09/22 14:14:09 core.Run took 2.97907ms
+2021/09/22 14:14:09 cli arg parse took 3.638548ms
+2021/09/22 14:14:20 cli arg parse took 198.269µs
+2021/09/22 22:29:49 cli arg parse took 460.813µs
+2021/09/23 22:56:48 cli arg parse took 247.755µs
+2021/09/23 23:38:00 cli arg parse took 223.45µs
+2021/09/23 23:38:12 cli arg parse took 249.251µs
+2021/09/24 00:37:47 core.Run took 626.906µs
+2021/09/24 00:37:47 cli arg parse took 771.292µs
+2021/09/24 00:37:47 core.Run took 670.379µs
+2021/09/24 00:37:47 cli arg parse took 811.534µs
+2021/09/24 00:38:39 core.Run took 1.052065ms
+2021/09/24 00:38:39 cli arg parse took 1.255565ms
+2021/09/24 00:38:40 core.Run took 785.904µs
+2021/09/24 00:38:40 cli arg parse took 945.522µs
+2021/09/24 00:43:12 core.Run took 1.067116ms
+2021/09/24 00:43:12 cli arg parse took 1.22699ms
+2021/09/24 00:43:12 core.Run took 837.1µs
+2021/09/24 00:43:12 cli arg parse took 974.331µs
+2021/09/24 00:51:40 cli arg parse took 302.462µs
+2021/09/24 00:56:18 core.Run took 933.647µs
+2021/09/24 00:56:18 cli arg parse took 1.107138ms
+2021/09/24 00:56:19 core.Run took 824.805µs
+2021/09/24 00:56:19 cli arg parse took 992.79µs
+2021/09/24 00:56:20 core.Run took 686.003µs
+2021/09/24 00:56:20 cli arg parse took 833.71µs
+2021/09/24 00:56:20 core.Run took 815.63µs
+2021/09/24 00:56:20 cli arg parse took 1.089235ms
+2021/09/24 01:00:00 cli arg parse took 236.387µs
+2021/09/24 01:07:00 cli arg parse took 212.102µs
+2021/09/24 15:40:42 cli arg parse took 186.937µs
+2021/09/24 18:42:28 cli arg parse took 208.717µs
+2021/09/24 19:12:14 cli arg parse took 217.665µs
+2021/09/25 00:05:29 cli arg parse took 260.546µs
+2021/09/25 00:26:22 core.Run took 536.978µs
+2021/09/25 00:26:22 cli arg parse took 656.447µs
+2021/09/25 00:40:28 cli arg parse took 183.087µs
+2021/09/25 01:02:33 cli arg parse took 433.062µs
+2021/09/25 01:03:30 cli arg parse took 207.439µs
+2021/09/25 01:03:49 cli arg parse took 186.409µs
+2021/09/25 01:14:02 cli arg parse took 241.601µs
+2021/09/25 01:14:15 cli arg parse took 205.042µs
+2021/09/25 01:53:47 cli arg parse took 232.16µs
+2021/09/25 01:59:38 cli arg parse took 193.426µs
+2021/09/25 19:02:57 cli arg parse took 311.036µs
+2021/09/25 19:03:03 cli arg parse took 254.768µs
+2021/09/25 20:09:35 cli arg parse took 193.872µs
+2021/09/25 20:24:16 cli arg parse took 181.334µs
+2021/09/25 20:27:20 cli arg parse took 229.386µs
+2021/09/25 21:50:40 cli arg parse took 238.661µs
+2021/09/27 01:45:47 cli arg parse took 225.009µs
+2021/09/27 20:26:45 cli arg parse took 862.551µs
+2021/09/28 00:45:24 core.Run took 1.263659ms
+2021/09/28 00:45:24 cli arg parse took 1.665874ms
+2021/09/28 00:54:23 cli arg parse took 229.773µs
+2021/09/28 01:32:56 cli arg parse took 185.826µs
+2021/09/29 20:30:41 cli arg parse took 298.775µs
+2021/09/29 20:51:38 cli arg parse took 365.861µs
+2021/09/30 00:21:02 cli arg parse took 281.29µs
+2021/10/03 02:52:02 cli arg parse took 206.396µs
+2021/10/03 13:42:15 cli arg parse took 158.976µs
+2021/10/03 13:51:52 cli arg parse took 209.54µs
+2021/10/03 13:58:43 core.Run took 3.907866ms
+2021/10/03 13:58:43 cli arg parse took 4.466024ms
+2021/10/03 21:23:22 cli arg parse took 351.416µs
+2021/10/03 21:29:32 cli arg parse took 466.476µs
+2021/10/03 21:33:00 cli arg parse took 238.785µs
+2021/10/03 21:39:55 cli arg parse took 178.784µs
+2021/10/03 22:00:43 core.Run took 4.086375ms
+2021/10/03 22:00:43 cli arg parse took 4.561707ms
+2021/10/03 22:05:58 cli arg parse took 214.597µs
+2021/10/04 00:15:59 cli arg parse took 245.695µs
+2021/10/05 19:57:33 cli arg parse took 276.59µs
+2021/10/06 10:38:21 cli arg parse took 802.468µs
+2021/10/06 10:42:47 cli arg parse took 276.785µs
+2021/10/06 12:44:18 cli arg parse took 178.845µs
+2021/10/06 13:03:55 cli arg parse took 855.936µs
+2021/10/06 13:05:07 cli arg parse took 161.539µs
+2021/10/06 14:22:42 cli arg parse took 227.985µs
+2021/10/06 14:31:49 cli arg parse took 211.239µs
+2021/10/06 18:00:32 cli arg parse took 1.13061ms
+2021/10/06 19:59:51 cli arg parse took 333.21µs
+2021/10/06 21:58:31 core.Run took 1.109528ms
+2021/10/06 21:58:31 cli arg parse took 1.402668ms
+2021/10/06 21:58:31 core.Run took 2.294024ms
+2021/10/06 21:58:31 cli arg parse took 2.857828ms
+2021/10/06 21:58:31 core.Run took 2.402793ms
+2021/10/06 21:58:31 cli arg parse took 2.895039ms
+2021/10/06 21:58:31 core.Run took 2.00518ms
+2021/10/06 21:58:31 cli arg parse took 2.542928ms
+2021/10/06 21:58:33 core.Run took 2.784757ms
+2021/10/06 21:58:33 cli arg parse took 3.27306ms
+2021/10/06 21:58:34 core.Run took 2.417031ms
+2021/10/06 21:58:34 cli arg parse took 2.907294ms
+2021/10/06 21:58:34 core.Run took 2.127697ms
+2021/10/06 21:58:34 cli arg parse took 2.707673ms
+2021/10/06 22:26:32 cli arg parse took 191.391µs
+2021/10/07 17:07:23 cli arg parse took 894.132µs
+2021/10/10 18:54:26 cli arg parse took 802.164µs
+2021/10/10 19:06:18 cli arg parse took 671.108µs
+2021/10/10 19:07:09 core.Run took 4.452536ms
+2021/10/10 19:07:09 cli arg parse took 5.130634ms
+2021/10/10 19:07:33 cli arg parse took 423.889µs
+2021/10/10 19:13:28 core.Run took 2.634764ms
+2021/10/10 19:13:28 cli arg parse took 3.122251ms
+2021/10/10 19:25:21 core.Run took 2.588027ms
+2021/10/10 19:25:21 cli arg parse took 3.057046ms
+2021/10/10 19:25:21 core.Run took 2.717119ms
+2021/10/10 19:25:21 cli arg parse took 3.312932ms
+2021/10/10 19:25:23 core.Run took 2.751083ms
+2021/10/10 19:25:23 cli arg parse took 3.268176ms
+2021/10/10 19:26:37 core.Run took 2.890191ms
+2021/10/10 19:26:37 cli arg parse took 3.391608ms
+2021/10/10 19:26:37 core.Run took 3.742004ms
+2021/10/10 19:26:37 cli arg parse took 4.280376ms
+2021/10/10 19:28:29 cli arg parse took 800.106µs
+2021/10/10 20:09:07 cli arg parse took 200.368µs
+2021/10/10 20:59:27 cli arg parse took 796.584µs
+2021/10/10 20:59:35 cli arg parse took 172.934µs
+2021/10/10 21:58:08 cli arg parse took 188.039µs
+2021/10/11 01:39:42 cli arg parse took 210.289µs
+2021/10/11 13:03:58 cli arg parse took 558.59µs
+2021/10/11 13:22:29 cli arg parse took 415.227µs
+2021/10/11 13:44:15 cli arg parse took 432.661µs
+2021/10/11 15:48:50 cli arg parse took 495.062µs
+2021/10/12 00:39:00 cli arg parse took 246.496µs
+2021/10/12 09:33:03 cli arg parse took 727.321µs
+2021/10/12 09:33:12 cli arg parse took 298.01µs
+2021/10/12 20:43:57 cli arg parse took 316.938µs
+2021/10/13 13:26:38 cli arg parse took 919µs
+2021/10/13 13:39:16 core.Run took 3.140191ms
+2021/10/13 13:39:16 cli arg parse took 3.612168ms
+2021/10/13 13:56:44 cli arg parse took 327.298µs
+2021/10/13 14:04:28 cli arg parse took 329.403µs
+2021/10/13 14:05:28 cli arg parse took 792.117µs
+2021/10/13 14:12:18 cli arg parse took 451.574µs
+2021/10/13 20:33:38 cli arg parse took 716.671µs
+2021/10/13 22:06:49 cli arg parse took 177.766µs
+2021/10/13 22:14:20 core.Run took 1.336751ms
+2021/10/13 22:14:20 cli arg parse took 1.684402ms
+2021/10/13 22:14:36 cli arg parse took 327.481µs
+2021/10/13 22:15:27 core.Run took 1.451814ms
+2021/10/13 22:15:27 cli arg parse took 1.708627ms
+2021/10/13 22:20:33 core.Run took 966.045µs
+2021/10/13 22:20:33 cli arg parse took 1.132025ms
+2021/10/13 22:20:47 cli arg parse took 240.318µs
+2021/10/13 22:24:43 cli arg parse took 196.786µs
+2021/10/13 22:24:57 cli arg parse took 191.419µs
+2021/10/13 22:32:37 cli arg parse took 208.074µs
+2021/10/13 22:33:33 cli arg parse took 217.564µs
+2021/10/13 22:42:33 cli arg parse took 187.463µs
+2021/10/14 08:54:47 cli arg parse took 322.349µs
+2021/10/14 10:19:06 cli arg parse took 283.898µs
+2021/10/14 10:38:35 cli arg parse took 471.068µs
+2021/10/14 10:39:41 cli arg parse took 778.563µs
+2021/10/14 10:45:41 cli arg parse took 308.144µs
+2021/10/14 12:46:24 cli arg parse took 415.302µs
+2021/10/15 00:03:08 cli arg parse took 484.586µs
+2021/10/15 10:10:07 cli arg parse took 711.847µs
+2021/10/17 13:50:56 cli arg parse took 983.618µs
+2021/10/17 18:27:06 cli arg parse took 249.841µs
+2021/10/17 18:50:09 cli arg parse took 166.999µs
+2021/10/17 19:15:11 cli arg parse took 187.105µs
+2021/10/17 19:17:48 cli arg parse took 283.833µs
+2021/10/18 11:51:57 cli arg parse took 376.704µs
+2021/10/18 12:59:47 cli arg parse took 374.054µs
+2021/10/18 13:03:38 cli arg parse took 365.816µs
+2021/10/18 13:45:01 cli arg parse took 350.031µs
+2021/10/18 16:49:18 cli arg parse took 247.962µs
+2021/10/18 19:07:44 cli arg parse took 938.384µs
+2021/10/18 19:42:47 cli arg parse took 311.014µs
+2021/10/20 11:21:56 cli arg parse took 427.127µs
+2021/10/20 14:32:57 cli arg parse took 800.637µs
+2021/10/21 09:06:06 cli arg parse took 825.618µs
+2021/10/21 09:45:43 cli arg parse took 678.902µs
+2021/10/21 11:20:41 cli arg parse took 329.298µs
+2021/10/21 12:40:46 cli arg parse took 241.972µs
+2021/10/21 13:00:47 cli arg parse took 311.886µs
+2021/10/21 13:05:11 core.Run took 3.432537ms
+2021/10/21 13:05:11 cli arg parse took 3.945451ms
+2021/10/21 13:08:06 core.Run took 2.948987ms
+2021/10/21 13:08:06 cli arg parse took 3.519467ms
+2021/10/23 00:46:04 cli arg parse took 299.516µs
+2021/10/23 14:40:30 cli arg parse took 258.56µs
+2021/10/23 14:40:30 cli arg parse took 271.659µs
+2021/10/25 13:09:51 cli arg parse took 285.658µs
+2021/10/25 13:28:49 cli arg parse took 715.421µs
+2021/10/25 14:07:23 cli arg parse took 372.252µs
+2021/10/25 14:09:43 cli arg parse took 344.965µs
+2021/10/25 14:12:42 cli arg parse took 316.943µs
+2021/10/25 14:12:42 cli arg parse took 308.907µs
+2021/10/25 14:30:10 cli arg parse took 336.018µs
+2021/10/25 21:50:46 cli arg parse took 217.694µs
+2021/10/25 22:20:25 cli arg parse took 220.793µs
+2021/10/25 22:37:39 cli arg parse took 465.938µs
+2021/10/25 22:39:06 cli arg parse took 182.876µs
+2021/10/25 23:01:22 cli arg parse took 190.91µs
+2021/10/26 09:32:20 cli arg parse took 838.635µs
+2021/10/26 09:47:33 cli arg parse took 309.129µs
+2021/10/26 13:10:45 cli arg parse took 284.938µs
+2021/10/26 14:12:47 cli arg parse took 850.043µs
+2021/10/27 13:12:43 cli arg parse took 374.075µs
+2021/10/27 13:37:30 cli arg parse took 396.858µs
+2021/10/27 13:43:51 cli arg parse took 336.835µs
+2021/10/27 13:44:13 cli arg parse took 371.558µs
+2021/10/27 14:19:46 cli arg parse took 216.124µs
+2021/10/27 18:37:52 cli arg parse took 930.769µs
+2021/10/27 19:09:59 cli arg parse took 343.506µs
+2021/10/27 19:28:26 cli arg parse took 315.88µs
+2021/10/27 19:50:09 cli arg parse took 321.702µs
+2021/10/27 21:08:29 cli arg parse took 301.211µs
+2021/10/27 21:08:50 cli arg parse took 291.568µs
+2021/10/28 09:13:32 cli arg parse took 722.638µs
+2021/10/28 11:04:00 cli arg parse took 211.13µs
+2021/10/28 11:35:15 core.Run took 4.27949ms
+2021/10/28 11:35:15 cli arg parse took 5.110846ms
+2021/10/28 19:21:56 cli arg parse took 370.536µs
+2021/10/28 19:28:15 cli arg parse took 529.256µs
+2021/10/28 19:31:33 cli arg parse took 988.508µs
+2021/10/28 19:47:56 cli arg parse took 359.303µs
+2021/10/28 19:55:46 cli arg parse took 276.025µs
+2021/10/28 19:57:59 cli arg parse took 214.521µs
+2021/10/28 19:59:35 cli arg parse took 215.835µs
+2021/10/28 20:00:56 cli arg parse took 303.369µs
+2021/10/28 20:11:20 cli arg parse took 206.722µs
+2021/10/28 20:13:28 cli arg parse took 220.804µs
+2021/10/28 20:23:14 cli arg parse took 341.799µs
+2021/10/28 20:29:54 cli arg parse took 297.871µs
+2021/10/28 20:33:02 cli arg parse took 197.422µs
+2021/10/28 20:33:19 cli arg parse took 229.663µs
+2021/10/28 20:35:26 cli arg parse took 197.485µs
+2021/10/28 20:35:32 cli arg parse took 220.699µs
+2021/10/28 20:36:38 cli arg parse took 243.476µs
+2021/10/28 20:40:00 cli arg parse took 290.128µs
+2021/10/29 10:40:44 cli arg parse took 672.721µs
+2021/10/29 13:54:05 core.Run took 3.78107ms
+2021/10/29 13:54:05 cli arg parse took 4.317318ms
+2021/10/30 12:24:45 cli arg parse took 310.945µs
+2021/10/30 12:25:00 cli arg parse took 210.168µs
+2021/10/30 12:29:23 cli arg parse took 186.655µs
+2021/10/30 12:50:58 core.Run took 2.933336ms
+2021/10/30 12:50:58 cli arg parse took 3.414355ms
+2021/10/30 12:51:06 core.Run took 2.036643ms
+2021/10/30 12:51:06 cli arg parse took 2.488633ms
+2021/10/30 12:51:06 core.Run took 509.386µs
+2021/10/30 12:51:06 cli arg parse took 643.052µs
+2021/10/30 12:51:07 core.Run took 850.56µs
+2021/10/30 12:51:07 cli arg parse took 1.043529ms
+2021/10/30 12:51:07 core.Run took 975.797µs
+2021/10/30 12:51:07 cli arg parse took 1.277921ms
+2021/10/30 13:49:11 cli arg parse took 208.464µs
+2021/10/30 14:06:34 cli arg parse took 216.234µs
+2021/10/30 23:49:40 cli arg parse took 265.295µs
+2021/10/31 17:29:22 cli arg parse took 783.093µs
+2021/11/01 10:39:54 cli arg parse took 197.324µs
+2021/11/01 10:41:24 cli arg parse took 226.359µs
+2021/11/01 10:44:17 cli arg parse took 183.178µs
+2021/11/01 10:45:14 cli arg parse took 190.693µs
+2021/11/01 11:43:02 cli arg parse took 909.22µs
+2021/11/01 11:49:57 cli arg parse took 168.977µs
+2021/11/01 13:01:09 cli arg parse took 181.149µs
+2021/11/01 13:23:21 cli arg parse took 182.586µs
+2021/11/01 13:23:24 cli arg parse took 188.174µs
+2021/11/01 13:25:42 cli arg parse took 318.135µs
+2021/11/01 14:10:39 core.Run took 3.286555ms
+2021/11/01 14:10:39 cli arg parse took 3.777079ms
+2021/11/01 14:31:06 cli arg parse took 178.534µs
+2021/11/01 16:39:45 cli arg parse took 839.627µs
+2021/11/01 16:40:42 cli arg parse took 593.86µs
+2021/11/01 20:34:33 cli arg parse took 321.359µs
+2021/11/01 23:06:30 core.Run took 2.361758ms
+2021/11/01 23:06:30 cli arg parse took 2.844919ms
+2021/11/02 00:59:23 cli arg parse took 176.891µs
+2021/11/02 01:08:11 cli arg parse took 265.605µs
+2021/11/04 01:50:09 cli arg parse took 566.818µs
+2021/11/04 01:54:48 cli arg parse took 345.562µs
+2021/11/04 14:26:05 cli arg parse took 385.465µs
+2021/11/04 22:45:07 cli arg parse took 455.835µs
+2021/11/05 20:36:38 cli arg parse took 877.054µs
+2021/11/06 00:07:12 cli arg parse took 700.488µs
+2021/11/06 00:08:59 cli arg parse took 313.024µs
+2021/11/06 19:42:40 cli arg parse took 807.403µs
+2021/11/06 19:59:54 cli arg parse took 282.964µs
+2021/11/07 20:46:15 cli arg parse took 221.914µs
+2021/11/07 23:47:50 cli arg parse took 198.335µs
+2021/11/07 23:57:17 cli arg parse took 188.773µs
+2021/11/08 13:57:53 cli arg parse took 341.832µs
+2021/11/08 16:28:51 cli arg parse took 388.356µs
+2021/11/08 22:22:53 cli arg parse took 289.338µs
+2021/11/09 17:32:14 cli arg parse took 482.04µs
+2021/11/09 17:39:32 cli arg parse took 380.944µs
+2021/11/09 22:17:51 cli arg parse took 328.22µs
+2021/11/10 10:44:52 cli arg parse took 429.707µs
+2021/11/10 11:14:36 cli arg parse took 408.354µs
+2021/11/10 11:27:26 cli arg parse took 297.963µs
+2021/11/10 13:01:57 cli arg parse took 826.388µs
+2021/11/10 13:02:36 core.Run took 2.330448ms
+2021/11/10 13:02:36 cli arg parse took 2.785591ms
+2021/11/10 13:05:07 cli arg parse took 481.103µs
+2021/11/10 13:05:31 cli arg parse took 288.017µs
+2021/11/10 13:07:21 cli arg parse took 332.011µs
+2021/11/10 13:52:57 cli arg parse took 300.099µs
+2021/11/10 14:22:56 cli arg parse took 568.505µs
+2021/11/10 14:30:15 cli arg parse took 352.604µs
+2021/11/10 23:39:10 cli arg parse took 784.815µs
+2021/11/10 23:39:37 cli arg parse took 204.005µs
+2021/11/11 00:00:18 cli arg parse took 183.39µs
+2021/11/11 11:35:55 cli arg parse took 782.048µs
+2021/11/11 19:46:25 cli arg parse took 785.42µs
+2021/11/11 20:31:34 cli arg parse took 248.047µs
+2021/11/11 20:49:23 cli arg parse took 328.01µs
+2021/11/12 10:36:45 cli arg parse took 570.713µs
+2021/11/12 21:55:26 cli arg parse took 342.493µs
+2021/11/12 21:57:59 core.Run took 8.989491ms
+2021/11/12 21:57:59 cli arg parse took 9.334727ms
+2021/11/12 21:57:59 core.Run took 1.527893ms
+2021/11/12 21:57:59 cli arg parse took 1.780774ms
+2021/11/12 21:57:59 core.Run took 1.813205ms
+2021/11/12 21:57:59 cli arg parse took 2.072399ms
+2021/11/12 21:57:59 core.Run took 1.870648ms
+2021/11/12 21:57:59 cli arg parse took 2.142866ms
+2021/11/12 21:58:05 core.Run took 1.657205ms
+2021/11/12 21:58:05 cli arg parse took 1.933588ms
+2021/11/12 22:07:42 cli arg parse took 330.74µs
+2021/11/13 00:21:30 cli arg parse took 335.461µs
+2021/11/13 01:09:18 core.Run took 3.0477ms
+2021/11/13 01:09:18 cli arg parse took 3.495129ms
+2021/11/13 13:31:06 cli arg parse took 985.015µs
+2021/11/13 14:02:46 cli arg parse took 474.092µs
+2021/11/13 14:29:50 cli arg parse took 465.126µs
+2021/11/13 14:30:56 cli arg parse took 693.175µs
+2021/11/13 22:38:36 cli arg parse took 282.716µs
+2021/11/13 22:42:11 cli arg parse took 324.557µs
+2021/11/14 17:06:25 cli arg parse took 177.13µs
+2021/11/14 17:07:56 core.Run took 3.141661ms
+2021/11/14 17:07:56 cli arg parse took 3.624602ms
+2021/11/14 20:38:22 cli arg parse took 182.743µs
+2021/11/14 20:40:26 cli arg parse took 175.946µs
+2021/11/14 22:22:47 cli arg parse took 274.703µs
+2021/11/14 22:30:38 cli arg parse took 838.517µs
+2021/11/15 10:39:44 cli arg parse took 273.151µs
+2021/11/15 10:54:52 cli arg parse took 592.088µs
+2021/11/15 13:17:35 cli arg parse took 314.99µs
+2021/11/15 13:17:57 cli arg parse took 281.466µs
+2021/11/15 13:20:39 cli arg parse took 335.186µs
+2021/11/15 13:26:18 cli arg parse took 314.533µs
+2021/11/15 13:40:41 cli arg parse took 267.142µs
+2021/11/15 14:10:11 cli arg parse took 555.999µs
+2021/11/15 14:56:42 cli arg parse took 224.708µs
+2021/11/15 16:49:25 cli arg parse took 282.236µs
+2021/11/15 19:53:27 cli arg parse took 383.877µs
+2021/11/16 09:29:16 cli arg parse took 304.836µs
+2021/11/16 09:32:58 cli arg parse took 407.472µs
+2021/11/16 09:38:44 cli arg parse took 271.763µs
+2021/11/16 09:48:00 cli arg parse took 250.941µs
+2021/11/16 09:52:27 cli arg parse took 787.221µs
+2021/11/16 09:52:33 core.Run took 2.698216ms
+2021/11/16 09:52:33 cli arg parse took 3.255087ms
+2021/11/16 09:52:56 cli arg parse took 241.719µs
+2021/11/16 09:53:49 cli arg parse took 272.621µs
+2021/11/16 10:22:56 cli arg parse took 333.117µs
+2021/11/16 13:06:30 cli arg parse took 181.057µs
+2021/11/16 13:12:31 cli arg parse took 296.079µs
+2021/11/16 13:19:23 core.Run took 3.008803ms
+2021/11/16 13:19:23 cli arg parse took 3.567882ms
+2021/11/16 13:37:53 cli arg parse took 180.43µs
+2021/11/17 12:57:24 cli arg parse took 354.203µs
+2021/11/17 12:57:39 cli arg parse took 286.34µs
+2021/11/17 13:09:47 cli arg parse took 289.924µs
+2021/11/17 14:30:11 cli arg parse took 279.588µs
+2021/11/17 14:34:55 cli arg parse took 426.968µs
+2021/11/18 08:58:43 cli arg parse took 311.892µs
+2021/11/18 09:13:55 cli arg parse took 525.361µs
+2021/11/18 11:02:06 cli arg parse took 214.402µs
+2021/11/18 11:05:35 cli arg parse took 177.739µs
+2021/11/18 11:48:49 cli arg parse took 189.012µs
+2021/11/18 12:36:31 cli arg parse took 282.473µs
+2021/11/18 19:00:27 cli arg parse took 779.334µs
+2021/11/20 15:01:43 cli arg parse took 845.788µs
+2021/11/20 22:26:50 cli arg parse took 185.407µs
+2021/11/21 16:02:37 cli arg parse took 325.402µs
+2021/11/21 16:09:47 cli arg parse took 341.642µs
+2021/11/21 16:14:51 cli arg parse took 317.879µs
+2021/11/21 19:04:56 cli arg parse took 188.686µs
+2021/11/21 19:39:34 cli arg parse took 181.661µs
+2021/11/21 19:46:02 cli arg parse took 214.59µs
+2021/11/21 22:26:10 cli arg parse took 568.931µs
+2021/11/21 22:34:44 cli arg parse took 506.553µs
+2021/11/22 00:16:46 cli arg parse took 323.135µs
+2021/11/22 00:55:04 cli arg parse took 202.826µs
+2021/11/22 10:49:44 cli arg parse took 326.32µs
+2021/11/22 10:55:26 cli arg parse took 425.995µs
+2021/11/22 11:25:48 cli arg parse took 797.084µs
+2021/11/22 13:44:02 cli arg parse took 299.84µs
+2021/11/22 13:44:45 cli arg parse took 539.174µs
+2021/11/22 14:05:58 cli arg parse took 299.184µs
+2021/11/22 14:08:01 cli arg parse took 386.868µs
+2021/11/22 14:10:15 cli arg parse took 784.938µs
+2021/11/22 14:12:38 cli arg parse took 725.943µs
+2021/11/22 15:02:20 core.Run took 2.327331ms
+2021/11/22 15:02:20 cli arg parse took 2.828305ms
+2021/11/22 15:02:49 cli arg parse took 322.149µs
+2021/11/23 00:16:34 cli arg parse took 203.798µs
+2021/11/23 18:25:50 core.Run took 2.816279ms
+2021/11/23 18:25:50 cli arg parse took 3.315024ms
+2021/11/24 10:35:51 cli arg parse took 628.838µs
+2021/11/24 10:36:11 cli arg parse took 409.831µs
+2021/11/24 10:37:35 cli arg parse took 266.453µs
+2021/11/24 13:50:00 cli arg parse took 818.912µs
+2021/11/24 13:50:20 cli arg parse took 320.165µs
+2021/11/24 14:43:07 cli arg parse took 1.083912ms
+2021/11/24 21:15:17 cli arg parse took 694.918µs
+2021/11/24 21:25:04 cli arg parse took 212.694µs
+2021/11/24 21:35:28 cli arg parse took 368.582µs
+2021/11/25 10:40:56 cli arg parse took 521.331µs
+2021/11/26 00:47:02 cli arg parse took 341.732µs
+2021/11/26 21:48:28 cli arg parse took 852.751µs
+2021/11/26 22:47:59 core.Run took 1.943401ms
+2021/11/26 22:47:59 cli arg parse took 2.254489ms
+2021/11/27 18:47:33 cli arg parse took 329.236µs
+2021/11/27 20:15:33 cli arg parse took 294.865µs
+2021/11/28 16:41:52 cli arg parse took 976.413µs
+2021/11/28 23:19:39 cli arg parse took 430.046µs
+2021/11/30 20:55:44 cli arg parse took 291.818µs
+2021/11/30 21:37:38 cli arg parse took 261.906µs
+2021/11/30 21:39:42 cli arg parse took 266.101µs
+2021/12/01 00:01:00 cli arg parse took 184.158µs
+2021/12/01 18:16:44 cli arg parse took 348.236µs
+2021/12/01 22:45:45 cli arg parse took 295.707µs
+2021/12/02 00:03:48 cli arg parse took 184.676µs
+2021/12/02 00:29:35 cli arg parse took 223.678µs
+2021/12/02 00:33:22 cli arg parse took 188.958µs
+2021/12/02 00:34:19 cli arg parse took 466.428µs
+2021/12/02 00:51:35 cli arg parse took 300.674µs
+2021/12/02 01:22:18 cli arg parse took 287.245µs
+2021/12/02 01:53:53 cli arg parse took 662.364µs
+2021/12/02 02:32:32 cli arg parse took 326.779µs
+2021/12/02 02:32:59 cli arg parse took 463.939µs
+2021/12/02 12:28:51 cli arg parse took 804.721µs
+2021/12/02 12:31:24 cli arg parse took 261.43µs
+2021/12/02 12:38:55 cli arg parse took 602.208µs
+2021/12/02 22:39:10 cli arg parse took 839.753µs
+2021/12/02 23:21:41 cli arg parse took 470.598µs
+2021/12/02 23:23:22 core.Run took 3.049841ms
+2021/12/02 23:23:22 cli arg parse took 3.497879ms
+2021/12/03 18:03:07 cli arg parse took 380.575µs
+2021/12/03 18:59:32 cli arg parse took 371.166µs
+2021/12/04 02:29:44 cli arg parse took 397.671µs
+2021/12/04 19:42:18 cli arg parse took 794.993µs
+2021/12/04 19:42:24 cli arg parse took 558.363µs
+2021/12/04 19:42:33 cli arg parse took 376.746µs
+2021/12/05 23:09:43 cli arg parse took 364.25µs
+2021/12/06 13:05:00 cli arg parse took 285.093µs
+2021/12/06 13:10:30 cli arg parse took 294.947µs
+2021/12/06 13:10:41 cli arg parse took 362.211µs
+2021/12/06 13:22:48 cli arg parse took 312.412µs
+2021/12/06 13:39:43 cli arg parse took 332.408µs
+2021/12/06 13:41:10 cli arg parse took 316.329µs
+2021/12/06 13:41:15 cli arg parse took 255.16µs
+2021/12/06 13:47:33 cli arg parse took 284.204µs
+2021/12/06 14:20:06 cli arg parse took 314.567µs
+2021/12/06 14:38:15 cli arg parse took 301.101µs
+2021/12/06 15:03:55 cli arg parse took 287.569µs
+2021/12/06 15:05:29 cli arg parse took 395.368µs
+2021/12/06 15:06:52 cli arg parse took 268.178µs
+2021/12/06 15:15:58 cli arg parse took 880.036µs
+2021/12/06 15:23:52 core.Run took 3.047335ms
+2021/12/06 15:23:52 cli arg parse took 3.604239ms
+2021/12/06 15:24:11 cli arg parse took 316.151µs
+2021/12/06 15:25:50 cli arg parse took 198.871µs
+2021/12/06 15:29:36 cli arg parse took 260.902µs
+2021/12/06 15:30:30 cli arg parse took 168.725µs
+2021/12/06 15:35:29 cli arg parse took 581.828µs
+2021/12/08 10:34:42 cli arg parse took 168.53µs
+2021/12/08 10:34:52 cli arg parse took 175.916µs
+2021/12/08 10:39:28 cli arg parse took 195.717µs
+2021/12/08 10:45:05 cli arg parse took 213.407µs
+2021/12/08 13:05:31 cli arg parse took 402.853µs
+2021/12/08 13:06:24 cli arg parse took 327.11µs
+2021/12/08 13:14:40 cli arg parse took 331.58µs
+2021/12/08 13:20:26 cli arg parse took 374.664µs
+2021/12/08 13:24:08 cli arg parse took 331.741µs
+2021/12/08 19:07:51 cli arg parse took 284.93µs
+2021/12/08 19:08:14 cli arg parse took 348.04µs
+2021/12/08 20:23:24 cli arg parse took 212.436µs
+2021/12/08 22:43:26 cli arg parse took 184.637µs
+2021/12/08 22:56:00 cli arg parse took 177.295µs
+2021/12/09 11:23:02 cli arg parse took 693.798µs
+2021/12/09 14:59:38 cli arg parse took 285.148µs
+2021/12/09 15:27:12 cli arg parse took 281.142µs
+2021/12/09 19:52:34 cli arg parse took 318.003µs
+2021/12/09 20:23:18 cli arg parse took 365.684µs
+2021/12/10 12:24:30 core.Run took 2.219814ms
+2021/12/10 12:24:30 cli arg parse took 3.187546ms
+2021/12/10 12:40:42 cli arg parse took 498.548µs
+2021/12/10 13:52:45 cli arg parse took 315.07µs
+2021/12/10 15:07:37 cli arg parse took 238.037µs
+2021/12/10 15:09:32 cli arg parse took 253.414µs
+2021/12/10 15:44:32 core.Run took 11.345487ms
+2021/12/10 15:44:32 cli arg parse took 11.93217ms
+2021/12/10 15:45:57 cli arg parse took 192.071µs
+2021/12/10 15:46:51 cli arg parse took 222.104µs
+2021/12/10 16:00:12 cli arg parse took 221.215µs
+2021/12/10 16:21:04 cli arg parse took 216.725µs
+2021/12/10 16:21:53 cli arg parse took 221.884µs
+2021/12/10 16:37:01 cli arg parse took 220.648µs
+2021/12/10 16:38:51 cli arg parse took 202.687µs
+2021/12/10 18:54:57 cli arg parse took 811.634µs
+2021/12/10 18:55:07 cli arg parse took 314.241µs
+2021/12/10 18:57:48 cli arg parse took 299.806µs
+2021/12/10 18:57:52 cli arg parse took 347.883µs
+2021/12/10 18:59:34 cli arg parse took 344.343µs
+2021/12/10 19:20:24 cli arg parse took 301.381µs
+2021/12/10 19:21:50 cli arg parse took 927.143µs
+2021/12/10 19:30:50 cli arg parse took 269.062µs
+2021/12/10 19:34:28 cli arg parse took 284.48µs
+2021/12/10 19:47:35 cli arg parse took 247.083µs
+2021/12/10 19:49:44 cli arg parse took 322.358µs
+2021/12/10 19:57:33 cli arg parse took 321.028µs
+2021/12/10 20:01:41 cli arg parse took 286.707µs
+2021/12/10 20:03:02 cli arg parse took 397.769µs
+2021/12/10 20:15:22 cli arg parse took 391.623µs
+2021/12/10 20:20:41 core.Run took 4.020989ms
+2021/12/10 20:20:41 cli arg parse took 4.61021ms
+2021/12/10 20:20:41 core.Run took 3.008561ms
+2021/12/10 20:20:41 cli arg parse took 3.49061ms
+2021/12/10 20:22:11 cli arg parse took 376.507µs
+2021/12/10 20:22:14 core.Run took 2.972855ms
+2021/12/10 20:22:14 cli arg parse took 3.506324ms
+2021/12/10 20:22:37 cli arg parse took 348.931µs
+2021/12/10 20:25:23 cli arg parse took 297.355µs
+2021/12/10 20:29:16 cli arg parse took 419.006µs
+2021/12/10 20:36:54 cli arg parse took 309.798µs
+2021/12/10 20:47:28 cli arg parse took 297.299µs
+2021/12/10 20:48:16 cli arg parse took 182.374µs
+2021/12/10 21:05:05 cli arg parse took 229.163µs
+2021/12/10 21:08:03 cli arg parse took 260.693µs
+2021/12/10 21:13:10 cli arg parse took 226.149µs
+2021/12/10 22:20:39 cli arg parse took 193.364µs
+2021/12/10 22:22:54 core.Run took 1.056956ms
+2021/12/10 22:22:54 cli arg parse took 1.381153ms
+2021/12/10 22:25:43 cli arg parse took 327.269µs
+2021/12/10 22:26:37 cli arg parse took 311.688µs
+2021/12/10 23:01:32 cli arg parse took 192.325µs
+2021/12/10 23:21:45 cli arg parse took 388.357µs
+2021/12/10 23:22:31 core.Run took 610.909µs
+2021/12/10 23:22:31 cli arg parse took 765.197µs
+2021/12/10 23:22:31 core.Run took 808.743µs
+2021/12/10 23:22:31 cli arg parse took 977.569µs
+2021/12/10 23:22:31 core.Run took 686.232µs
+2021/12/10 23:22:31 cli arg parse took 837.55µs
+2021/12/10 23:22:44 cli arg parse took 234.598µs
+2021/12/10 23:33:40 cli arg parse took 6.944717ms
+2021/12/10 23:34:33 cli arg parse took 210.685µs
+2021/12/10 23:43:45 cli arg parse took 214.234µs
+2021/12/11 00:12:33 cli arg parse took 175.331µs
+2021/12/11 22:57:45 cli arg parse took 807.648µs
+2021/12/12 02:05:50 cli arg parse took 738.744µs
+2021/12/12 20:21:39 cli arg parse took 917.441µs
+2021/12/12 20:21:54 cli arg parse took 307.622µs
+2021/12/12 20:22:03 cli arg parse took 301.904µs
+2021/12/12 21:28:23 cli arg parse took 214.875µs
+2021/12/13 10:40:36 cli arg parse took 288.648µs
+2021/12/13 10:46:31 cli arg parse took 303.899µs
+2021/12/13 12:09:53 cli arg parse took 278.463µs
+2021/12/13 13:04:40 cli arg parse took 285.531µs
+2021/12/13 13:05:30 cli arg parse took 314.5µs
+2021/12/13 14:36:15 cli arg parse took 537.508µs
+2021/12/13 14:39:08 cli arg parse took 354.212µs
+2021/12/13 16:41:42 cli arg parse took 353.222µs
+2021/12/13 21:04:29 cli arg parse took 299.259µs
+2021/12/14 09:27:21 cli arg parse took 364.903µs
+2021/12/14 09:27:30 core.Run took 3.287842ms
+2021/12/14 09:27:30 cli arg parse took 3.878381ms
+2021/12/14 09:27:30 core.Run took 3.252802ms
+2021/12/14 09:27:30 cli arg parse took 3.718653ms
+2021/12/14 10:26:02 cli arg parse took 756.151µs
+2021/12/14 13:10:02 cli arg parse took 394.967µs
+2021/12/14 16:47:07 cli arg parse took 289.189µs
+2021/12/14 17:19:37 cli arg parse took 321.305µs
+2021/12/14 18:51:17 core.Run took 1.616942ms
+2021/12/14 18:51:17 cli arg parse took 1.976553ms
+2021/12/14 18:51:17 core.Run took 1.912069ms
+2021/12/14 18:51:17 cli arg parse took 2.234461ms
+2021/12/14 18:55:51 cli arg parse took 181.186µs
+2021/12/14 19:00:26 cli arg parse took 190.814µs
+2021/12/14 19:17:34 cli arg parse took 171.306µs
+2021/12/14 19:27:26 cli arg parse took 187.437µs
+2021/12/14 19:34:51 cli arg parse took 397.729µs
+2021/12/14 19:47:22 cli arg parse took 188.64µs
+2021/12/14 20:08:44 cli arg parse took 177.919µs
+2021/12/14 20:21:25 core.Run took 2.656539ms
+2021/12/14 20:21:25 cli arg parse took 10.236102ms
+2021/12/14 20:21:26 core.Run took 3.439785ms
+2021/12/14 20:21:26 cli arg parse took 3.998191ms
+2021/12/14 20:33:45 cli arg parse took 253.269µs
+2021/12/14 21:11:49 cli arg parse took 387.037µs
+2021/12/14 21:24:34 cli arg parse took 187.013µs
+2021/12/14 22:19:13 cli arg parse took 191.4µs
+2021/12/14 22:21:46 cli arg parse took 183.791µs
+2021/12/14 22:25:48 cli arg parse took 186.512µs
+2021/12/14 22:26:36 cli arg parse took 181.795µs
+2021/12/14 22:28:35 cli arg parse took 208.486µs
+2021/12/14 22:29:14 cli arg parse took 224.617µs
+2021/12/14 22:46:14 cli arg parse took 171.709µs
+2021/12/14 22:48:35 cli arg parse took 202.508µs
+2021/12/14 22:50:54 cli arg parse took 233.691µs
+2021/12/14 22:54:58 cli arg parse took 192.155µs
+2021/12/14 22:55:02 cli arg parse took 175.012µs
+2021/12/14 23:04:28 cli arg parse took 177.674µs
+2021/12/14 23:06:00 cli arg parse took 177.996µs
+2021/12/14 23:07:29 cli arg parse took 179.163µs
+2021/12/14 23:07:39 cli arg parse took 171.294µs
+2021/12/14 23:08:31 cli arg parse took 180.347µs
+2021/12/14 23:08:51 cli arg parse took 167.768µs
+2021/12/14 23:23:42 cli arg parse took 188.02µs
+2021/12/14 23:24:08 cli arg parse took 221.039µs
+2021/12/14 23:28:13 cli arg parse took 184.397µs
+2021/12/14 23:42:32 cli arg parse took 188.651µs
+2021/12/14 23:44:33 cli arg parse took 191.103µs
+2021/12/15 00:54:15 cli arg parse took 168.449µs
+2021/12/15 10:42:18 cli arg parse took 455.639µs
+2021/12/15 11:04:27 cli arg parse took 299.128µs
+2021/12/15 12:15:43 cli arg parse took 326.792µs
+2021/12/15 13:08:28 cli arg parse took 350.21µs
+2021/12/15 13:08:30 cli arg parse took 417.685µs
+2021/12/15 13:24:55 cli arg parse took 393.545µs
+2021/12/15 14:46:55 cli arg parse took 405.096µs
+2021/12/15 15:15:33 cli arg parse took 212.248µs
+2021/12/15 16:59:51 cli arg parse took 182.672µs
+2021/12/15 17:00:04 cli arg parse took 180.222µs
+2021/12/15 17:01:22 cli arg parse took 175.106µs
+2021/12/15 21:50:20 cli arg parse took 174.558µs
+2021/12/15 21:51:14 cli arg parse took 210.502µs
+2021/12/16 10:48:36 cli arg parse took 352.771µs
+2021/12/16 11:49:47 cli arg parse took 332.519µs
+2021/12/16 12:00:21 cli arg parse took 374.433µs
+2021/12/16 12:07:12 cli arg parse took 374.296µs
+2021/12/16 20:32:50 cli arg parse took 497.582µs
+2021/12/16 21:03:42 cli arg parse took 177.271µs
+2021/12/16 22:03:09 cli arg parse took 184.026µs
+2021/12/16 22:03:10 cli arg parse took 174.936µs
+2021/12/16 22:43:54 cli arg parse took 210.001µs
+2021/12/16 23:23:36 cli arg parse took 192.809µs
+2021/12/16 23:23:39 cli arg parse took 184.006µs
+2021/12/17 10:34:53 cli arg parse took 364.16µs
+2021/12/17 10:38:56 core.Run took 9.634764ms
+2021/12/17 10:38:56 cli arg parse took 10.245871ms
+2021/12/17 10:40:13 cli arg parse took 356.834µs
+2021/12/17 12:34:32 cli arg parse took 371.056µs
+2021/12/17 12:35:01 cli arg parse took 279.103µs
+2021/12/17 13:54:29 cli arg parse took 311.349µs
+2021/12/17 14:18:16 cli arg parse took 288.978µs
+2021/12/17 14:19:33 cli arg parse took 851.698µs
+2021/12/17 14:23:50 cli arg parse took 351.187µs
+2021/12/17 14:24:33 cli arg parse took 342.395µs
+2021/12/17 14:24:33 cli arg parse took 245.047µs
+2021/12/17 14:24:34 cli arg parse took 275.263µs
+2021/12/17 14:24:34 cli arg parse took 307.689µs
+2021/12/17 14:24:34 cli arg parse took 247.903µs
+2021/12/17 14:24:35 cli arg parse took 257.9µs
+2021/12/17 14:29:20 cli arg parse took 281.507µs
+2021/12/17 14:29:30 cli arg parse took 333.219µs
+2021/12/17 21:28:42 cli arg parse took 197.313µs
+2021/12/17 21:48:14 cli arg parse took 180.176µs
+2021/12/17 21:50:30 cli arg parse took 925.247µs
+2021/12/17 23:08:25 cli arg parse took 167.777µs
+2021/12/18 00:58:49 cli arg parse took 181.38µs
+2021/12/18 01:00:03 cli arg parse took 185.48µs
+2021/12/18 01:02:40 cli arg parse took 183.61µs
+2021/12/18 02:15:52 cli arg parse took 197.857µs
+2021/12/18 02:44:02 cli arg parse took 173.296µs
+2021/12/18 02:46:15 cli arg parse took 190.294µs
+2021/12/18 02:48:44 cli arg parse took 187.542µs
+2021/12/18 02:49:10 cli arg parse took 188.237µs
+2021/12/18 03:07:19 cli arg parse took 186.037µs
+2021/12/18 03:11:25 cli arg parse took 159.084µs
+2021/12/18 03:15:57 cli arg parse took 191.673µs
+2021/12/18 03:35:06 cli arg parse took 193.896µs
+2021/12/18 04:11:51 cli arg parse took 200.043µs
+2021/12/18 04:46:07 cli arg parse took 194.249µs
+2021/12/18 04:49:35 core.Run took 10.425669ms
+2021/12/18 04:49:35 cli arg parse took 10.982984ms
+2021/12/18 05:18:35 cli arg parse took 180.217µs
+2021/12/18 06:14:59 cli arg parse took 219.622µs
+2021/12/18 06:16:04 cli arg parse took 182.428µs
+2021/12/18 07:22:33 cli arg parse took 182.829µs
+2021/12/18 07:51:29 cli arg parse took 191.483µs
+2021/12/18 08:01:23 core.Run took 3.528396ms
+2021/12/18 08:01:23 cli arg parse took 4.096372ms
+2021/12/18 16:07:25 cli arg parse took 192.586µs
+2021/12/18 16:39:26 cli arg parse took 197.807µs
+2021/12/18 16:46:49 cli arg parse took 188.519µs
+2021/12/18 16:51:37 cli arg parse took 179.633µs
+2021/12/18 16:55:30 cli arg parse took 186.865µs
+2021/12/18 20:05:36 cli arg parse took 216.862µs
+2021/12/18 20:43:32 cli arg parse took 241.32µs
+2021/12/18 20:51:40 cli arg parse took 237.972µs
+2021/12/18 20:53:55 core.Run took 1.963711ms
+2021/12/18 20:53:55 cli arg parse took 2.449889ms
+2021/12/18 21:36:00 cli arg parse took 218.902µs
+2021/12/18 21:41:22 cli arg parse took 194.488µs
+2021/12/18 21:45:44 cli arg parse took 178.111µs
+2021/12/18 21:50:26 cli arg parse took 192.711µs
+2021/12/18 21:51:10 cli arg parse took 223.843µs
+2021/12/18 23:00:38 cli arg parse took 180.918µs
+2021/12/18 23:07:08 cli arg parse took 188.431µs
+2021/12/18 23:09:47 cli arg parse took 200.382µs
+2021/12/18 23:22:29 cli arg parse took 251.34µs
+2021/12/18 23:37:07 cli arg parse took 192.663µs
+2021/12/19 00:03:17 cli arg parse took 188.158µs
+2021/12/19 00:04:22 cli arg parse took 188.353µs
+2021/12/19 00:25:29 core.Run took 3.101418ms
+2021/12/19 00:25:29 cli arg parse took 3.703815ms
+2021/12/19 01:14:09 cli arg parse took 192.209µs
+2021/12/19 01:14:56 cli arg parse took 188.946µs
+2021/12/19 01:43:14 cli arg parse took 189.078µs
+2021/12/19 03:09:18 cli arg parse took 270.785µs
+2021/12/19 03:14:56 cli arg parse took 248.674µs
+2021/12/19 03:37:17 cli arg parse took 189.505µs
+2021/12/19 15:20:44 cli arg parse took 212.243µs
+2021/12/19 15:47:23 cli arg parse took 191.961µs
+2021/12/19 15:56:53 cli arg parse took 746.173µs
+2021/12/19 16:44:54 cli arg parse took 226.582µs
+2021/12/19 16:51:15 cli arg parse took 734.223µs
+2021/12/19 16:51:44 cli arg parse took 187.079µs
+2021/12/19 16:51:54 cli arg parse took 186.251µs
+2021/12/19 16:52:27 cli arg parse took 176.654µs
+2021/12/19 17:03:36 cli arg parse took 224.474µs
+2021/12/19 17:06:14 cli arg parse took 188.836µs
+2021/12/19 17:24:53 cli arg parse took 178.864µs
+2021/12/19 17:24:59 cli arg parse took 188.029µs
+2021/12/19 17:25:07 cli arg parse took 194.612µs
+2021/12/19 17:25:16 cli arg parse took 178.977µs
+2021/12/19 17:33:20 cli arg parse took 188.031µs
+2021/12/19 17:39:06 cli arg parse took 254.514µs
+2021/12/19 18:18:28 cli arg parse took 243.396µs
+2021/12/19 18:31:45 cli arg parse took 196.096µs
+2021/12/19 18:31:45 cli arg parse took 182.122µs
+2021/12/19 18:37:15 cli arg parse took 184.59µs
+2021/12/19 21:30:18 cli arg parse took 990.513µs
+2021/12/19 21:37:38 core.Run took 2.552615ms
+2021/12/19 21:37:38 cli arg parse took 3.070506ms
+2021/12/19 21:37:38 core.Run took 616.315µs
+2021/12/19 21:37:38 cli arg parse took 765.373µs
+2021/12/19 22:17:04 cli arg parse took 207.3µs
+2021/12/19 22:54:17 cli arg parse took 189.557µs
+2021/12/19 22:54:38 cli arg parse took 193.666µs
+2021/12/19 23:08:15 cli arg parse took 198.625µs
+2021/12/19 23:12:41 cli arg parse took 240.189µs
+2021/12/19 23:21:41 cli arg parse took 181.744µs
+2021/12/19 23:39:38 cli arg parse took 174.804µs
+2021/12/19 23:39:44 cli arg parse took 174.116µs
+2021/12/19 23:40:16 cli arg parse took 190.827µs
+2021/12/19 23:42:02 cli arg parse took 187.577µs
+2021/12/19 23:48:31 cli arg parse took 207.427µs
+2021/12/20 00:27:49 cli arg parse took 176.285µs
+2021/12/20 01:06:38 core.Run took 2.507676ms
+2021/12/20 01:06:38 cli arg parse took 3.056121ms
+2021/12/20 01:06:42 cli arg parse took 194.027µs
+2021/12/20 01:06:52 cli arg parse took 173.166µs
+2021/12/20 01:08:15 cli arg parse took 172.751µs
+2021/12/20 01:12:23 cli arg parse took 209.61µs
+2021/12/20 01:14:19 cli arg parse took 666.655µs
+2021/12/20 01:17:49 cli arg parse took 211.92µs
+2021/12/20 01:38:00 cli arg parse took 177.858µs
+2021/12/20 01:40:47 cli arg parse took 185.841µs
+2021/12/20 01:56:28 cli arg parse took 156.073µs
+2021/12/20 02:06:10 cli arg parse took 184.901µs
+2021/12/20 02:08:31 cli arg parse took 190.964µs
+2021/12/20 02:27:42 cli arg parse took 194.347µs
+2021/12/20 11:01:45 cli arg parse took 792.271µs
+2021/12/20 11:06:15 cli arg parse took 505.151µs
+2021/12/20 11:09:53 cli arg parse took 315.443µs
+2021/12/20 11:19:34 cli arg parse took 267.725µs
+2021/12/20 11:37:55 cli arg parse took 262.904µs
+2021/12/20 12:11:26 cli arg parse took 720.406µs
+2021/12/20 12:29:24 cli arg parse took 293.691µs
+2021/12/20 12:29:24 cli arg parse took 242.96µs
+2021/12/20 13:17:48 cli arg parse took 644.421µs
+2021/12/20 13:21:41 cli arg parse took 286.304µs
+2021/12/20 13:21:53 cli arg parse took 305.1µs
+2021/12/20 14:16:22 cli arg parse took 369.031µs
+2021/12/20 15:10:17 cli arg parse took 702.903µs
+2021/12/20 15:13:32 cli arg parse took 186.431µs
+2021/12/20 15:20:37 cli arg parse took 186.218µs
+2021/12/20 15:32:33 cli arg parse took 194.002µs
+2021/12/20 15:38:04 core.Run took 11.535407ms
+2021/12/20 15:38:04 cli arg parse took 12.015421ms
+2021/12/20 15:39:41 cli arg parse took 179.25µs
+2021/12/20 15:51:44 cli arg parse took 201.759µs
+2021/12/20 15:51:45 cli arg parse took 187.505µs
+2021/12/20 15:53:15 cli arg parse took 200.71µs
+2021/12/20 15:54:08 cli arg parse took 189.898µs
+2021/12/20 15:54:26 cli arg parse took 186.155µs
+2021/12/20 16:16:04 cli arg parse took 180.502µs
+2021/12/20 16:18:25 cli arg parse took 187.184µs
+2021/12/20 16:19:12 cli arg parse took 187.469µs
+2021/12/20 16:38:00 cli arg parse took 473.363µs
+2021/12/20 16:38:53 cli arg parse took 352.287µs
+2021/12/20 16:46:13 core.Run took 2.848266ms
+2021/12/20 16:46:13 cli arg parse took 3.384465ms
+2021/12/20 16:53:59 cli arg parse took 284.601µs
+2021/12/20 16:54:24 cli arg parse took 282.98µs
+2021/12/20 17:19:42 cli arg parse took 417.863µs
+2021/12/20 21:04:10 cli arg parse took 186.543µs
+2021/12/20 23:41:05 cli arg parse took 185.033µs
+2021/12/21 00:12:10 core.Run took 3.604411ms
+2021/12/21 00:12:10 cli arg parse took 4.107473ms
+2021/12/21 01:56:33 cli arg parse took 314.78µs
+2021/12/21 02:09:24 cli arg parse took 299.54µs
+2021/12/21 02:22:48 cli arg parse took 378.254µs
+2021/12/21 09:05:20 cli arg parse took 829.649µs
+2021/12/21 09:16:49 cli arg parse took 348.539µs
+2021/12/21 09:18:04 cli arg parse took 269.016µs
+2021/12/21 13:06:05 cli arg parse took 286.953µs
+2021/12/21 13:08:24 cli arg parse took 328.247µs
+2021/12/21 13:36:42 cli arg parse took 1.285172ms
+2021/12/21 15:23:41 cli arg parse took 347.636µs
+2021/12/21 15:25:32 cli arg parse took 288.889µs
+2021/12/21 15:32:47 cli arg parse took 324.482µs
+2021/12/21 15:38:45 cli arg parse took 286.085µs
+2021/12/21 15:56:06 cli arg parse took 187.622µs
+2021/12/21 16:10:59 cli arg parse took 214.537µs
+2021/12/21 16:11:10 cli arg parse took 184.949µs
+2021/12/21 16:12:26 cli arg parse took 189.587µs
+2021/12/21 16:27:49 cli arg parse took 188.813µs
+2021/12/21 16:43:19 cli arg parse took 216.971µs
+2021/12/21 16:43:38 cli arg parse took 183.739µs
+2021/12/21 16:54:13 cli arg parse took 307.125µs
+2021/12/21 17:44:30 cli arg parse took 199.103µs
+2021/12/21 18:24:17 cli arg parse took 192.649µs
+2021/12/21 18:26:03 cli arg parse took 184.036µs
+2021/12/21 18:27:42 cli arg parse took 192.717µs
+2021/12/21 18:32:47 cli arg parse took 180.44µs
+2021/12/21 20:02:29 cli arg parse took 196.408µs
+2021/12/21 22:16:48 cli arg parse took 185.913µs
+2021/12/21 22:26:10 cli arg parse took 183.783µs
+2021/12/21 22:27:27 cli arg parse took 226.948µs
+2021/12/21 22:38:03 cli arg parse took 190.755µs
+2021/12/21 23:29:41 cli arg parse took 185.904µs
+2021/12/21 23:29:47 cli arg parse took 192.938µs
+2021/12/21 23:44:31 cli arg parse took 212.39µs
+2021/12/21 23:46:03 cli arg parse took 166.94µs
+2021/12/22 00:36:05 cli arg parse took 168.327µs
+2021/12/22 01:08:52 cli arg parse took 209.092µs
+2021/12/22 01:22:22 cli arg parse took 183.341µs
+2021/12/22 01:33:59 cli arg parse took 191.441µs
+2021/12/22 01:42:42 cli arg parse took 179.851µs
+2021/12/22 01:46:26 core.Run took 9.696428ms
+2021/12/22 01:46:26 cli arg parse took 10.199744ms
+2021/12/22 01:46:54 core.Run took 1.401902ms
+2021/12/22 01:46:54 cli arg parse took 1.741928ms
+2021/12/22 01:47:44 cli arg parse took 207.246µs
+2021/12/22 01:48:12 cli arg parse took 201.638µs
+2021/12/22 01:48:44 core.Run took 3.163668ms
+2021/12/22 01:48:44 cli arg parse took 3.68712ms
+2021/12/22 01:49:49 core.Run took 2.639767ms
+2021/12/22 01:49:49 cli arg parse took 3.179873ms
+2021/12/22 01:52:47 cli arg parse took 190.748µs
+2021/12/22 10:44:07 cli arg parse took 332.72µs
+2021/12/22 10:44:22 core.Run took 3.327721ms
+2021/12/22 10:44:22 cli arg parse took 3.956009ms
+2021/12/22 10:50:59 cli arg parse took 305.76µs
+2021/12/22 11:09:36 core.Run took 2.656349ms
+2021/12/22 11:09:36 cli arg parse took 3.317131ms
+2021/12/22 11:12:30 core.Run took 3.195702ms
+2021/12/22 11:12:30 cli arg parse took 3.724211ms
+2021/12/22 11:14:54 core.Run took 2.917735ms
+2021/12/22 11:14:54 cli arg parse took 3.7277ms
+2021/12/22 11:19:08 core.Run took 3.065078ms
+2021/12/22 11:19:08 cli arg parse took 3.560016ms
+2021/12/22 12:13:30 cli arg parse took 301.742µs
+2021/12/22 12:47:29 cli arg parse took 393.191µs
+2021/12/22 12:47:34 cli arg parse took 380.864µs
+2021/12/22 13:12:03 cli arg parse took 334.144µs
+2021/12/22 13:15:27 cli arg parse took 349.214µs
+2021/12/22 13:19:34 core.Run took 10.892433ms
+2021/12/22 13:19:34 cli arg parse took 11.376087ms
+2021/12/22 13:34:52 cli arg parse took 402.195µs
+2021/12/22 13:35:15 core.Run took 7.853749ms
+2021/12/22 13:35:15 cli arg parse took 8.077713ms
+2021/12/22 13:47:04 cli arg parse took 387.361µs
+2021/12/22 13:47:59 cli arg parse took 365.217µs
+2021/12/22 14:23:57 cli arg parse took 368.117µs
+2021/12/22 15:12:48 cli arg parse took 358.266µs
+2021/12/22 15:37:06 cli arg parse took 351.274µs
+2021/12/22 15:48:10 cli arg parse took 365.162µs
+2021/12/22 15:54:19 cli arg parse took 365.505µs
+2021/12/22 16:10:43 core.Run took 3.892218ms
+2021/12/22 16:10:43 cli arg parse took 4.491952ms
+2021/12/22 23:58:44 cli arg parse took 190.045µs
+2021/12/23 00:34:10 cli arg parse took 198.386µs
+2021/12/23 02:05:19 cli arg parse took 182.712µs
+2021/12/23 03:15:18 core.Run took 1.515636ms
+2021/12/23 03:15:18 cli arg parse took 1.941874ms
+2021/12/23 03:26:52 cli arg parse took 285.967µs
+2021/12/23 03:27:13 cli arg parse took 220.493µs
+2021/12/23 12:37:18 cli arg parse took 208.569µs
+2021/12/23 13:38:37 cli arg parse took 179.686µs
+2021/12/23 14:09:54 cli arg parse took 222.755µs
+2021/12/23 14:40:21 core.Run took 2.101599ms
+2021/12/23 14:40:21 cli arg parse took 2.424293ms
+2021/12/23 14:57:48 core.Run took 1.126009ms
+2021/12/23 14:57:48 cli arg parse took 1.310841ms
+2021/12/23 15:21:41 cli arg parse took 211.054µs
+2021/12/23 15:21:57 cli arg parse took 181.332µs
+2021/12/23 15:23:14 cli arg parse took 187.152µs
+2021/12/23 15:24:16 core.Run took 3.20968ms
+2021/12/23 15:24:16 cli arg parse took 4.206242ms
+2021/12/23 15:46:42 cli arg parse took 198.744µs
+2021/12/23 16:54:17 cli arg parse took 189.473µs
+2021/12/23 16:54:21 cli arg parse took 197.104µs
+2021/12/23 17:34:24 cli arg parse took 178.572µs
+2021/12/23 20:19:10 cli arg parse took 181.879µs
+2021/12/23 20:19:51 cli arg parse took 245.443µs
+2021/12/23 21:46:10 cli arg parse took 203.602µs
+2021/12/23 21:48:32 cli arg parse took 185.022µs
+2021/12/23 21:49:46 cli arg parse took 177.524µs
+2021/12/23 22:16:05 cli arg parse took 185.979µs
+2021/12/23 22:16:42 core.Run took 947.34µs
+2021/12/23 22:16:42 cli arg parse took 1.138721ms
+2021/12/23 22:58:38 cli arg parse took 180.251µs
+2021/12/23 23:22:36 cli arg parse took 243.089µs
+2021/12/23 23:51:04 cli arg parse took 312.933µs
+2021/12/24 00:46:46 cli arg parse took 313.89µs
+2021/12/24 00:50:17 cli arg parse took 297.072µs
+2021/12/24 01:20:17 cli arg parse took 301.945µs
+2021/12/24 01:25:45 cli arg parse took 308.584µs
+2021/12/24 01:32:05 cli arg parse took 321.696µs
+2021/12/24 01:46:42 cli arg parse took 413.86µs
+2021/12/24 14:15:53 cli arg parse took 899.274µs
+2021/12/24 14:20:58 cli arg parse took 433.106µs
+2021/12/24 14:21:01 core.Run took 2.254049ms
+2021/12/24 14:21:01 cli arg parse took 2.665452ms
+2021/12/24 14:22:22 cli arg parse took 270.415µs
+2021/12/24 14:22:48 cli arg parse took 308.859µs
+2021/12/24 14:23:19 cli arg parse took 450.385µs
+2021/12/24 14:24:47 cli arg parse took 359.878µs
+2021/12/24 16:03:24 cli arg parse took 176.95µs
+2021/12/24 16:07:26 cli arg parse took 176.719µs
+2021/12/24 16:24:02 cli arg parse took 245.291µs
+2021/12/24 16:44:52 cli arg parse took 174.164µs
+2021/12/24 16:56:14 cli arg parse took 178.245µs
+2021/12/24 17:15:39 cli arg parse took 176.122µs
+2021/12/24 18:05:10 core.Run took 1.982527ms
+2021/12/24 18:05:10 cli arg parse took 2.199178ms
+2021/12/24 18:05:28 core.Run took 9.721664ms
+2021/12/24 18:05:28 cli arg parse took 10.233429ms
+2021/12/24 18:07:12 core.Run took 2.050293ms
+2021/12/24 18:07:12 cli arg parse took 2.563882ms
+2021/12/24 18:11:12 core.Run took 3.510661ms
+2021/12/24 18:11:12 cli arg parse took 4.050553ms
+2021/12/24 18:18:50 cli arg parse took 205.479µs
+2021/12/24 18:18:57 core.Run took 3.445864ms
+2021/12/24 18:18:57 cli arg parse took 4.07327ms
+2021/12/24 18:19:43 cli arg parse took 212.024µs
+2021/12/24 18:23:10 core.Run took 2.89641ms
+2021/12/24 18:23:10 cli arg parse took 3.482056ms
+2021/12/24 18:27:31 cli arg parse took 190.383µs
+2021/12/24 18:51:51 cli arg parse took 203.508µs
+2021/12/24 19:03:09 cli arg parse took 192.962µs
+2021/12/24 19:15:32 cli arg parse took 191.848µs
+2021/12/24 19:36:34 cli arg parse took 190.196µs
+2021/12/24 19:45:27 cli arg parse took 192.704µs
+2021/12/24 20:00:47 cli arg parse took 178.46µs
+2021/12/24 20:53:26 cli arg parse took 182.952µs
+2021/12/24 23:14:25 cli arg parse took 187.551µs
+2021/12/24 23:14:40 cli arg parse took 185.556µs
+2021/12/24 23:15:34 cli arg parse took 228.346µs
+2021/12/25 00:34:14 cli arg parse took 219.63µs
+2021/12/25 01:32:35 core.Run took 3.768128ms
+2021/12/25 01:32:35 cli arg parse took 4.295654ms
+2021/12/25 15:30:57 core.Run took 944.074µs
+2021/12/25 15:30:57 cli arg parse took 1.36922ms
+2021/12/25 15:30:57 core.Run took 1.12949ms
+2021/12/25 15:30:57 cli arg parse took 1.335063ms
+2021/12/25 16:17:19 cli arg parse took 189.995µs
+2021/12/25 21:05:37 cli arg parse took 187.468µs
+2021/12/25 21:31:14 cli arg parse took 183.712µs
+2021/12/25 21:31:45 cli arg parse took 193.19µs
+2021/12/25 22:47:53 cli arg parse took 223.737µs
+2021/12/25 23:40:27 cli arg parse took 261.542µs
+2021/12/26 01:28:32 cli arg parse took 194.569µs
+2021/12/26 01:43:16 cli arg parse took 187.167µs
+2021/12/26 01:43:33 cli arg parse took 230.16µs
+2021/12/26 01:56:09 cli arg parse took 195.853µs
+2021/12/26 02:16:19 cli arg parse took 188.202µs
+2021/12/26 03:54:39 cli arg parse took 181.57µs
+2021/12/26 14:52:04 cli arg parse took 215.041µs
+2021/12/26 14:52:21 cli arg parse took 175.528µs
+2021/12/26 15:13:16 cli arg parse took 182.22µs
+2021/12/26 20:54:34 cli arg parse took 456.071µs
+2021/12/26 21:06:09 cli arg parse took 408.651µs
+2021/12/26 21:15:37 cli arg parse took 460.302µs
+2021/12/26 21:25:09 cli arg parse took 329.797µs
+2021/12/27 00:51:51 cli arg parse took 775.048µs
+2021/12/27 02:58:40 cli arg parse took 271.904µs
+2021/12/27 03:25:54 cli arg parse took 281.488µs
+2021/12/27 18:12:32 cli arg parse took 838.085µs
+2021/12/27 20:02:40 cli arg parse took 189.213µs
+2021/12/27 20:17:14 cli arg parse took 193.424µs
+2021/12/27 21:17:27 cli arg parse took 298.137µs
+2021/12/27 21:18:54 cli arg parse took 205.229µs
+2021/12/27 21:19:54 cli arg parse took 200.305µs
+2021/12/27 21:20:40 cli arg parse took 207.934µs
+2021/12/27 22:04:58 cli arg parse took 205.955µs
+2021/12/27 23:47:36 cli arg parse took 230.116µs
+2021/12/27 23:47:58 cli arg parse took 246.131µs
+2021/12/28 00:01:07 cli arg parse took 277.425µs
+2021/12/28 00:08:49 cli arg parse took 445.978µs
+2021/12/28 00:15:14 cli arg parse took 241.12µs
+2021/12/28 00:17:42 cli arg parse took 180.057µs
+2021/12/28 00:25:18 cli arg parse took 184.313µs
+2021/12/28 03:08:36 cli arg parse took 486.852µs
+2021/12/28 15:59:09 cli arg parse took 811.376µs
+2021/12/28 19:13:08 cli arg parse took 202.793µs
+2021/12/28 20:09:22 cli arg parse took 190.093µs
+2021/12/28 20:39:15 cli arg parse took 192.548µs
+2021/12/28 21:06:53 cli arg parse took 220.234µs
+2021/12/28 22:29:09 core.Run took 4.384206ms
+2021/12/28 22:29:09 cli arg parse took 5.331787ms
+2021/12/29 03:56:10 cli arg parse took 253.616µs
+2021/12/29 19:18:28 cli arg parse took 240.316µs
+2021/12/29 20:10:03 cli arg parse took 187.601µs
+2021/12/29 22:46:55 cli arg parse took 189.702µs
+2021/12/29 23:37:34 cli arg parse took 194.361µs
+2021/12/30 03:52:45 cli arg parse took 206.949µs
+2021/12/30 04:18:33 cli arg parse took 194.271µs
+2021/12/30 04:30:52 cli arg parse took 256.965µs
+2021/12/30 04:31:16 cli arg parse took 196.88µs
+2021/12/30 04:59:12 cli arg parse took 191.26µs
+2021/12/30 05:05:38 cli arg parse took 192.338µs
+2021/12/30 16:27:00 cli arg parse took 237.978µs
+2021/12/30 16:27:04 cli arg parse took 189.809µs
+2021/12/30 16:27:34 cli arg parse took 188.625µs
+2021/12/30 21:57:51 cli arg parse took 349.471µs
+2021/12/31 00:32:46 cli arg parse took 204.786µs
+2021/12/31 00:33:12 cli arg parse took 203.6µs
+2021/12/31 02:35:00 cli arg parse took 201.956µs
+2021/12/31 18:10:54 cli arg parse took 627.209µs
+2021/12/31 18:15:53 cli arg parse took 528.854µs
+2021/12/31 18:18:49 cli arg parse took 527.333µs
+2021/12/31 22:16:15 cli arg parse took 191.811µs
+2021/12/31 22:37:19 cli arg parse took 191.366µs
+2022/01/01 02:28:40 cli arg parse took 422.89µs
+2022/01/01 03:10:14 cli arg parse took 338.544µs
+2022/01/01 07:47:25 cli arg parse took 245.484µs
+2022/01/01 08:28:11 cli arg parse took 272.229µs
+2022/01/01 08:28:37 cli arg parse took 200.84µs
+2022/01/01 09:52:20 cli arg parse took 199.36µs
+2022/01/01 19:42:33 core.Run took 1.70265ms
+2022/01/01 19:42:33 cli arg parse took 2.147004ms
+2022/01/01 19:42:34 core.Run took 2.956011ms
+2022/01/01 19:42:34 cli arg parse took 3.538454ms
+2022/01/01 20:10:43 cli arg parse took 180.928µs
+2022/01/01 20:15:07 cli arg parse took 196.757µs
+2022/01/01 20:18:57 cli arg parse took 187.753µs
+2022/01/01 23:02:42 cli arg parse took 193.217µs
+2022/01/02 01:55:48 cli arg parse took 201.544µs
+2022/01/02 02:09:07 cli arg parse took 704.777µs
+2022/01/02 02:14:38 cli arg parse took 189.625µs
+2022/01/02 03:09:24 cli arg parse took 219.166µs
+2022/01/02 03:11:17 cli arg parse took 182.278µs
+2022/01/02 05:26:40 cli arg parse took 182.815µs
+2022/01/02 21:33:14 cli arg parse took 432.595µs
+2022/01/03 00:02:58 core.Run took 4.212854ms
+2022/01/03 00:02:58 cli arg parse took 5.111011ms
+2022/01/03 00:07:49 core.Run took 2.886664ms
+2022/01/03 00:07:49 cli arg parse took 3.575093ms
+2022/01/03 01:51:48 cli arg parse took 188.268µs
+2022/01/03 04:49:54 cli arg parse took 247.095µs
+2022/01/03 07:26:19 cli arg parse took 297.238µs
+2022/01/03 20:02:11 cli arg parse took 609.917µs
+2022/01/04 01:33:44 cli arg parse took 246.251µs
+2022/01/04 02:39:57 cli arg parse took 247.244µs
+2022/01/04 03:47:32 cli arg parse took 234.711µs
+2022/01/04 04:05:53 cli arg parse took 220.326µs
+2022/01/04 04:11:16 cli arg parse took 220.107µs
+2022/01/04 04:19:12 cli arg parse took 192.628µs
+2022/01/04 06:07:07 cli arg parse took 196.415µs
+2022/01/05 03:03:44 core.Run took 2.226671ms
+2022/01/05 03:03:44 cli arg parse took 2.694965ms
+2022/01/05 03:13:41 cli arg parse took 208.04µs
+2022/01/05 03:58:45 cli arg parse took 517.544µs
+2022/01/05 17:19:33 cli arg parse took 465.274µs
+2022/01/05 18:28:30 cli arg parse took 390.167µs
+2022/01/05 18:33:00 cli arg parse took 353.47µs
+2022/01/05 21:59:34 cli arg parse took 210.055µs
+2022/01/05 22:45:07 cli arg parse took 259.833µs
+2022/01/05 23:17:27 cli arg parse took 343.577µs
+2022/01/05 23:20:42 core.Run took 7.189078ms
+2022/01/05 23:20:42 cli arg parse took 7.340093ms
+2022/01/05 23:31:37 cli arg parse took 218.693µs
+2022/01/05 23:31:57 cli arg parse took 192.653µs
+2022/01/05 23:32:57 cli arg parse took 189.665µs
+2022/01/05 23:43:36 core.Run took 1.764026ms
+2022/01/05 23:43:36 cli arg parse took 2.055056ms
+2022/01/06 00:16:26 cli arg parse took 188.999µs
+2022/01/06 00:38:31 cli arg parse took 202.996µs
+2022/01/06 01:43:00 cli arg parse took 192.555µs
+2022/01/06 02:08:34 cli arg parse took 236.949µs
+2022/01/06 03:11:21 core.Run took 2.324938ms
+2022/01/06 03:11:21 cli arg parse took 2.913467ms
+2022/01/06 03:12:00 cli arg parse took 187.122µs
+2022/01/06 03:13:56 cli arg parse took 190.974µs
+2022/01/06 03:16:02 cli arg parse took 189.17µs
+2022/01/06 03:22:54 cli arg parse took 200.536µs
+2022/01/06 03:25:49 cli arg parse took 199.235µs
+2022/01/06 03:31:54 cli arg parse took 173.428µs
+2022/01/06 03:35:19 cli arg parse took 214.4µs
+2022/01/06 04:23:38 cli arg parse took 193.626µs
+2022/01/06 04:26:40 cli arg parse took 185.957µs
+2022/01/06 04:32:20 core.Run took 9.875386ms
+2022/01/06 04:32:20 cli arg parse took 10.423939ms
+2022/01/06 05:02:03 cli arg parse took 199.922µs
+2022/01/06 05:08:05 cli arg parse took 209.984µs
+2022/01/06 19:18:47 cli arg parse took 649.788µs
+2022/01/06 22:12:47 cli arg parse took 729.096µs
+2022/01/06 22:31:51 core.Run took 9.856059ms
+2022/01/06 22:31:51 cli arg parse took 10.392919ms
+2022/01/07 00:40:38 cli arg parse took 285.808µs
+2022/01/07 00:44:46 core.Run took 3.500287ms
+2022/01/07 00:44:46 cli arg parse took 3.970929ms
+2022/01/07 00:44:46 core.Run took 3.185893ms
+2022/01/07 00:44:46 cli arg parse took 3.749406ms
+2022/01/07 02:05:47 cli arg parse took 700.864µs
+2022/01/07 02:35:04 cli arg parse took 215.881µs
+2022/01/07 02:36:52 cli arg parse took 311.605µs
+2022/01/07 02:45:24 cli arg parse took 210.503µs
+2022/01/07 03:20:36 cli arg parse took 196.032µs
+2022/01/07 03:21:58 cli arg parse took 186.584µs
+2022/01/07 05:25:17 cli arg parse took 229.511µs
+2022/01/07 05:58:42 cli arg parse took 226.251µs
+2022/01/08 03:46:39 core.Run took 3.278412ms
+2022/01/08 03:46:39 cli arg parse took 4.146254ms
+2022/01/08 04:00:08 cli arg parse took 882.651µs
+2022/01/08 05:27:14 cli arg parse took 180.483µs
+2022/01/08 05:41:50 core.Run took 954.932µs
+2022/01/08 05:41:50 cli arg parse took 1.148678ms
+2022/01/08 06:08:38 cli arg parse took 212.751µs
+2022/01/08 06:12:11 cli arg parse took 180.541µs
+2022/01/08 06:19:10 cli arg parse took 173.906µs
+2022/01/08 07:09:13 cli arg parse took 196.164µs
+2022/01/08 07:09:14 cli arg parse took 210.248µs
+2022/01/08 07:09:17 cli arg parse took 190.251µs
+2022/01/08 07:09:21 cli arg parse took 186.487µs
+2022/01/08 07:09:32 cli arg parse took 189.989µs
+2022/01/08 07:09:41 cli arg parse took 198.285µs
+2022/01/08 07:12:03 cli arg parse took 188.457µs
+2022/01/08 07:13:10 cli arg parse took 186.44µs
+2022/01/08 07:13:26 cli arg parse took 187.718µs
+2022/01/08 07:13:55 cli arg parse took 187.271µs
+2022/01/08 07:13:58 cli arg parse took 180.979µs
+2022/01/08 07:14:17 cli arg parse took 204.834µs
+2022/01/08 07:35:11 cli arg parse took 221.073µs
+2022/01/08 09:01:40 cli arg parse took 178.63µs
+2022/01/08 20:59:23 cli arg parse took 213.447µs
+2022/01/08 21:05:06 cli arg parse took 185.803µs
+2022/01/08 21:05:08 cli arg parse took 194.871µs
+2022/01/08 23:11:20 cli arg parse took 190.954µs
+2022/01/09 01:28:29 cli arg parse took 193.438µs
+2022/01/09 01:51:46 cli arg parse took 190.206µs
+2022/01/09 04:41:21 cli arg parse took 224.869µs
+2022/01/09 04:44:29 cli arg parse took 195.422µs
+2022/01/09 04:58:29 cli arg parse took 184.744µs
+2022/01/09 05:18:59 cli arg parse took 187.155µs
+2022/01/09 05:21:38 cli arg parse took 179.252µs
+2022/01/10 02:01:51 cli arg parse took 215.235µs
+2022/01/10 02:02:01 cli arg parse took 183.475µs
+2022/01/10 02:03:35 cli arg parse took 195.444µs
+2022/01/10 03:42:14 cli arg parse took 221.686µs
+2022/01/10 04:11:55 cli arg parse took 198.775µs
+2022/01/10 05:31:46 cli arg parse took 177.203µs
+2022/01/10 05:31:52 cli arg parse took 189.112µs
+2022/01/10 05:35:30 cli arg parse took 183.978µs
+2022/01/10 06:04:19 cli arg parse took 220.215µs
+2022/01/10 06:04:19 cli arg parse took 187.464µs
+2022/01/10 06:11:31 cli arg parse took 198.167µs
+2022/01/10 06:11:33 cli arg parse took 192.794µs
+2022/01/10 06:11:36 cli arg parse took 188.954µs
+2022/01/10 06:11:38 cli arg parse took 186.355µs
+2022/01/10 06:11:52 cli arg parse took 196.454µs
+2022/01/10 06:11:56 cli arg parse took 183.56µs
+2022/01/10 06:11:57 cli arg parse took 182.625µs
+2022/01/10 18:31:32 cli arg parse took 592.088µs
+2022/01/10 18:46:42 cli arg parse took 313.687µs
+2022/01/11 13:07:18 cli arg parse took 1.568981ms
+2022/01/11 13:21:24 cli arg parse took 170.004µs
+2022/01/11 13:25:47 cli arg parse took 181.127µs
+2022/01/11 13:29:00 cli arg parse took 189.761µs
+2022/01/11 13:40:50 cli arg parse took 180.245µs
+2022/01/11 14:00:57 cli arg parse took 171.018µs
+2022/01/11 16:28:56 cli arg parse took 780.631µs
+2022/01/11 16:29:48 cli arg parse took 315.075µs
+2022/01/11 16:30:55 cli arg parse took 716.888µs
+2022/01/11 23:02:30 cli arg parse took 260.803µs
+2022/01/11 23:03:37 cli arg parse took 281.29µs
+2022/01/11 23:19:28 cli arg parse took 379.973µs
+2022/01/12 00:35:25 cli arg parse took 183.169µs
+2022/01/12 01:43:42 cli arg parse took 183.245µs
+2022/01/12 01:44:55 cli arg parse took 191.536µs
+2022/01/12 01:49:19 cli arg parse took 200.684µs
+2022/01/12 22:29:11 cli arg parse took 224.225µs
+2022/01/12 23:18:43 cli arg parse took 197.519µs
+2022/01/13 03:48:03 cli arg parse took 261.33µs
+2022/01/13 03:48:19 cli arg parse took 176.936µs
+2022/01/14 01:49:39 cli arg parse took 1.107462ms
+2022/01/14 04:29:40 cli arg parse took 210.004µs
+2022/01/14 18:24:40 core.Run took 3.37874ms
+2022/01/14 18:24:40 cli arg parse took 4.183022ms
+2022/01/15 04:50:05 cli arg parse took 891.971µs
+2022/01/15 05:28:35 cli arg parse took 622.091µs
+2022/01/15 07:21:17 cli arg parse took 256.51µs
+2022/01/15 07:30:02 cli arg parse took 191.007µs
+2022/01/15 08:00:39 cli arg parse took 182.111µs
+2022/01/15 08:20:44 cli arg parse took 1.040566ms
+2022/01/15 08:21:52 cli arg parse took 186.627µs
+2022/01/15 08:25:42 cli arg parse took 192.073µs
+2022/01/15 08:25:48 cli arg parse took 190.835µs
+2022/01/15 08:25:52 cli arg parse took 192.265µs
+2022/01/15 08:26:13 cli arg parse took 165.51µs
+2022/01/15 08:26:16 cli arg parse took 197.52µs
+2022/01/15 08:26:26 cli arg parse took 188.171µs
+2022/01/15 08:35:54 cli arg parse took 192.532µs
+2022/01/15 08:35:59 cli arg parse took 208.084µs
+2022/01/15 08:56:06 cli arg parse took 208.657µs
+2022/01/15 08:56:09 cli arg parse took 177.115µs
+2022/01/15 09:18:44 cli arg parse took 216.056µs
+2022/01/15 09:28:27 cli arg parse took 178.161µs
+2022/01/15 09:36:16 cli arg parse took 270.435µs
+2022/01/15 09:36:19 cli arg parse took 193.697µs
+2022/01/15 09:39:22 cli arg parse took 183.251µs
+2022/01/15 10:03:06 cli arg parse took 209.049µs
+2022/01/15 10:17:38 cli arg parse took 187.098µs
+2022/01/15 10:51:41 cli arg parse took 183.866µs
+2022/01/15 11:06:25 cli arg parse took 253.806µs
+2022/01/15 11:09:06 cli arg parse took 288.017µs
+2022/01/15 11:20:48 cli arg parse took 156.446µs
+2022/01/15 11:51:52 cli arg parse took 1.250672ms
+2022/01/15 12:46:44 cli arg parse took 183.947µs
+2022/01/15 13:25:57 cli arg parse took 938.936µs
+2022/01/15 13:39:06 cli arg parse took 171.267µs
+2022/01/15 14:10:30 core.Run took 2.022273ms
+2022/01/15 14:10:30 cli arg parse took 2.551579ms
+2022/01/15 15:25:47 cli arg parse took 182.209µs
+2022/01/15 15:28:51 core.Run took 1.322337ms
+2022/01/15 15:28:51 cli arg parse took 1.672973ms

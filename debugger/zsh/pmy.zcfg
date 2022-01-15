@@ -1,0 +1,8 @@
+export PMY_TRIGGER_KEY="^H"
+
+export PMY_RULE_PATH="$ZSH_WORDSPACE_ROOT/pmy/rules"
+export PMY_SNIPPET_PATH="$ZSH_WORDSPACE_ROOT/pmy/snippets"
+export PMY_LOG_PATH="$ZSH_WORDSPACE_ROOT/pmy/log.txt"
+
+eval "$(pmy init)"
+

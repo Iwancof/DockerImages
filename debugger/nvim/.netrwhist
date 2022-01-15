@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='scp://Line/'
+let g:netrw_dirhist_8='/home/iwancof/WorkSpace/Wadachi-ware/wadachi-os/src'
+let g:netrw_dirhist_7='/home/iwancof/dotfiles/.zsh'
+let g:netrw_dirhist_6='/home/iwancof/WorkSpace/Minecraft/MyFirstMod/build'
+let g:netrw_dirhist_5='/home/iwancof/.cache/dein/.cache/init.vim'
+let g:netrw_dirhist_4='/home/iwancof/WorkSpace/VM/initrd_dirc'
+let g:netrw_dirhist_3='/usr/share/pwndbg/pwndbg/heap'
+let g:netrw_dirhist_2='/home/iwancof/WorkSpace/CTF/learning_malloc/tcache_double_free'
+let g:netrw_dirhist_1='/home/iwancof/WorkSpace/CTF/ideas/vtable'
+let g:netrw_dirhist_0='/home/iwancof/WorkSpace/CTF/learning_malloc/fastbin_double_free'

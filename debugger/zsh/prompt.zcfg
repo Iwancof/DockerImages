@@ -1,0 +1,40 @@
+
+# starship
+export STARSHIP_CONFIG=$ZSH_WORDSPACE_ROOT/starship.toml
+eval "$(starship init zsh)"
+
+setopt complete_aliases
+setopt auto_cd
+setopt auto_pushd
+setopt pushd_ignore_dups
+setopt complete_aliases
+autoload history-search-end
+zle -N history-beginning-search-backward-end history-search-end
+zle -N history-beginning-search-forward-end history-search-end
+bindkey "^[p" history-beginning-search-backward-end
+bindkey "^[n" history-beginning-search-forward-end
+
+bindkey "\e[3~" vi-delete-char
+bindkey "\e[4" vi-delete-char
+bindkey "\e[7" vi-delete-char
+bindkey "^[[1;5C" forward-word
+bindkey "^[[1;5D" backward-word
+
+function chpwd() { exa }
+
+export LS_COLORS
+export LSCOLORS=gxfxcxdxbxegedabagacad
+
+setopt prompt_subst
+TMOUT=10
+
+TRAPALRM() {
+    if [ "$WIDGET" != "expand-or-complete" ]; then
+        zle reset-prompt
+    fi
+}
+
+RPROMPT="%F{white} %D{%Y-%m-%d %H:%M:%S} %f"
+
+add-zsh-hook preexec preexec_pacman
+

@@ -1,0 +1,100 @@
+format = """
+$cmd_duration
+[├───](blue)$battery\\[[$username@$hostname](green dimmed)\\] $python$git_branch$git_commit$git_metrics$git_status$git_state$rust$memory_usage
+[├─](blue)\\$ $directory$character
+"""
+
+[rust]
+format = "via [$symbol($version )]($style)"
+
+[memory_usage]
+disabled = false
+threshold = -1
+symbol = "🧠"
+style = "bold dimmed yellow"
+format = "$symbol [ram:${ram_pct} swap:${swap_pct}]($style) "
+
+[directory]
+truncation_length = 8
+truncate_to_repo = false
+home_symbol = "~"
+truncation_symbol = ".../"
+
+[cmd_duration]
+min_time = 1_000
+show_milliseconds = false
+disabled = false
+show_notifications = true
+min_time_to_notify = 1800_000
+# notify_time = 1800_000
+style = "bold green"
+format = "took [$duration]($style)"
+
+[character]
+success_symbol = "[❯](green bold)"
+error_symbol = "[❯](bold red)"
+
+[battery]
+full_symbol = "🔋"
+charging_symbol = "🔌"
+discharging_symbol = "😁"
+unknown_symbol = "🤔"
+empty_symbol = "😢"
+format = "[$symbol $percentage]($style) "
+
+[[battery.display]]
+threshold = 100
+style = "bold red"
+
+[git_status]
+disabled = false
+conflicted = "🏳"
+ahead = "🏎💨"
+behind = "😰"
+diverged = "😵"
+untracked = "🤷‍"
+stashed = "📦"
+modified = "📝"
+staged = '[++\($count\)](green)'
+renamed = "👅"
+deleted = "🗑"
+
+format = '([$all_status$ahead_behind]($style) )'
+
+[git_metrics]
+disabled = false
+format = "[+$added]($added_style) [-$deleted]($deleted_style) "
+
+[git_branch]
+disabled = false
+
+[git_commit]
+commit_hash_length = 4
+tag_symbol = "🔖 "
+disabled = false
+
+[git_state]
+style = "yellow dimmed"
+format = '[\($state( $progress_current of $progress_total)\)]($style) '
+
+rebase = "REBASING"
+merge = "MERGING"
+revert = "REVERTING"
+cherry_pick = "[🍒 PICKING](bold red)"
+bisect = "BISECTING"
+
+disabled = false
+
+[username]
+style_user = "white"
+style_root = "red bold"
+format = "[$user]($style)"
+disabled = false
+show_always = true
+
+[hostname]
+ssh_only = false
+trim_at = ""
+format = "[$hostname]($style)"
+style = "white dimmed"
+disabled = false

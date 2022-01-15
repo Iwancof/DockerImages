@@ -1,0 +1,9 @@
+# ZSH aliases written by iwancof <rock.iwancof@gmail.com>
+
+alias sudo='sudo '
+alias vim=nvim
+alias ls='exa'
+alias dirs='dirs -v'
+alias cd='pushd'
+alias pcp='xsel --clipboard --input'
+alias pps='xsel --clipboard --output'
