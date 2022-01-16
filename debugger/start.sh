@@ -1,1 +1,1 @@
-docker run -d --rm --privileged --name debugger debugger
+docker run -d --rm --name debugger debugger

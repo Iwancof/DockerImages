@@ -1,5 +1,6 @@
 # export LANG=ja_JP.UTF-8
 export LANG=C.UTF-8
+export LC_ALL=C.UTF-8
 export FZF_DEFAULT_COMMAND='rg --files --hidden --glob "!.git"'
 export FZF_DEFAULT_OPTS='--height 30% --border'
 export PYENV_ROOT=$HOME/.pyenv
@@ -8,3 +9,5 @@ export PATH="/root/.pyenv/shims:/root/.cargo/bin:/root/go/bin:${PATH}"
 export TERM=xterm-256color
 export PATH=$PATH:~/.local/bin
 export GPG_TTY=$(tty)
+
+source ~/.cargo/env

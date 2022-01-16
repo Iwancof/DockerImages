@@ -1,5 +1,4 @@
-source /root/pwndbg/gdbinit.py
-source /root/ret-sync/ext_gdb/sync.py
+source /root/pwndbg/gdbinit.py source /root/ret-sync/ext_gdb/sync.py
 source /root/gdb_note_addr/addr_note.py
 source /root/splitmind/gdbinit.py
 set auto-load safe-path /
@@ -17,13 +16,18 @@ alias -a ttfin = reverse-finish
 python
 import splitmind
 (splitmind.Mind()
-  .below(display="stack")
+  .below(display="expressions")
   .right(display="regs")
-  .right(of="main", display="disasm")
+  .below(of="regs", display="stack")
+  .below(of="main", display="disasm")
   .below(of="disasm", display="code")
-  .below(of="stack", display="backtrace")
   .show("legend", on="disasm")
 ).build()
+end
+
+python
+print("add pwndbg/pwndbg/commmand/context.py context_expression, execute `info locals` with to_strings=True. and return the result")
+print("thus you can monitor local variables")
 end
 
 set language c
